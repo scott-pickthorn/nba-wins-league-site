@@ -1,7 +1,12 @@
 import { readFileSync } from 'fs';
 import { join } from 'path';
 
-export async function fetchNBAStandings(): Promise<{ [key: string]: number }> {
+export interface StandingsData {
+  standings: { [key: string]: number };
+  lastUpdated?: string;
+}
+
+export async function fetchNBAStandings(): Promise<StandingsData> {
   try {
     // Read standings from the JSON file in the public directory
     const standingsPath = join(process.cwd(), 'public', 'standings.json');
@@ -12,7 +17,10 @@ export async function fetchNBAStandings(): Promise<{ [key: string]: number }> {
       throw new Error('No standings data found in JSON file');
     }
 
-    return data.standings;
+    return {
+      standings: data.standings,
+      lastUpdated: data.lastUpdated,
+    };
   } catch (error) {
     console.error('Error reading standings from JSON file:', error);
     throw error;
