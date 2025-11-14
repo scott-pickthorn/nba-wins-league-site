@@ -13,71 +13,22 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
       - name: Fetch NBA Standings
-        id: fetch
+        env:
+          SPORTS_API_KEY: ${{ secrets.SPORTS_API_KEY }}
         run: |
-          cat > /tmp/update_standings.js << 'EOF'
-          const fs = require('fs');
-          const path = require('path');
+          echo "SPORTS_API_KEY=$SPORTS_API_KEY" > .env.local
+          npm run fetch-standings
 
-          async function fetchStandings() {
-            try {
-              const apiKey = '${{ secrets.SPORTS_API_KEY }}';
-              const nbaId = 4; // NBA sport ID
-
-              const response = await fetch(
-                `https://api.apilayer.com/therundown/sports/${nbaId}/teams`,
-                {
-                  method: 'GET',
-                  headers: {
-                    'apikey': apiKey,
-                  },
-                }
-              );
-
-              if (!response.ok) {
-                throw new Error('Failed to fetch NBA standings');
-              }
-
-              const teamsData = await response.json();
-              const standings = {};
-
-              if (teamsData.teams && Array.isArray(teamsData.teams)) {
-                teamsData.teams.forEach((team) => {
-                  const teamAbbr = team.abbreviation?.toUpperCase();
-                  const recordString = team.record;
-                  if (recordString && typeof recordString === 'string') {
-                    const wins = parseInt(recordString.split('-')[0]);
-                    if (teamAbbr && !isNaN(wins)) {
-                      standings[teamAbbr] = wins;
-                    }
-                  }
-                });
-              }
-
-              const data = {
-                lastUpdated: new Date().toISOString(),
-                standings: standings
-              };
-
-              const standingsPath = path.join(__dirname, '..', 'public', 'standings.json');
-              fs.writeFileSync(standingsPath, JSON.stringify(data, null, 2));
-              console.log('Standings updated successfully');
-              return true;
-            } catch (error) {
-              console.error('Error fetching standings:', error);
-              return false;
-            }
-          }
-
-          fetchStandings().then(success => {
-            process.exit(success ? 0 : 1);
-          });
-          EOF
-          
-          node /tmp/update_standings.js
-
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
