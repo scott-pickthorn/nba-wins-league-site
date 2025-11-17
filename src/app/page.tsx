@@ -1,23 +1,12 @@
-import { fetchNBAStandings } from "@/lib/standings";
 import StandingsClient from "./standings-client";
-
-interface StandingsData {
-  standings: { [key: string]: number };
-  lastUpdated?: string;
-}
+import { computePlayerWins } from "@/lib/leagueStandings";
 
 export default async function Page() {
-  let teamWins = {};
-  let lastUpdated: string | undefined;
+  // computePlayerWins reads `public/standings.json` and maps players to their team wins
+  const { lastUpdated, players } = computePlayerWins();
 
-  try {
-    const data: StandingsData = await fetchNBAStandings();
-    teamWins = data.standings;
-    lastUpdated = data.lastUpdated;
-  } catch (err) {
-    console.error("Failed to load standings from JSON file:", err);
-    // Fall back to empty object
-  }
+  // Sort players by totalWins descending
+  players.sort((a, b) => b.totalWins - a.totalWins);
 
-  return <StandingsClient teamWins={teamWins} lastUpdated={lastUpdated} />;
+  return <StandingsClient players={players} lastUpdated={lastUpdated || undefined} />;
 }

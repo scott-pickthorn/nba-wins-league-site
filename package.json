@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "fetch-standings": "node scripts/fetch-standings.mjs"
+    "fetch-standings": "node scripts/fetch-standings.mjs",
+    "build:export": "next build && next export"
   },
   "dependencies": {
     "dotenv": "^16.0.0",

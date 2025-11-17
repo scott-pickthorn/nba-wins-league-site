@@ -1,54 +1,20 @@
 "use client";
 
-import React, { useEffect, useState } from "react";
-import { leagueData, Player } from "@/lib/leagueData";
-
-interface TeamStats {
-  [key: string]: number;
-}
+import React, { useMemo, useState } from "react";
+import type { PlayerWins } from "@/lib/leagueStandings";
 
 interface StandingsClientProps {
-  teamWins: TeamStats;
+  players: PlayerWins[];
   lastUpdated?: string;
 }
 
-export default function StandingsClient({ teamWins, lastUpdated }: StandingsClientProps) {
-  const [standings, setStandings] = useState<Player[]>([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
+export default function StandingsClient({ players, lastUpdated }: StandingsClientProps) {
   const [expandedPlayerId, setExpandedPlayerId] = useState<number | null>(null);
 
-  useEffect(() => {
-    setLoading(true);
-    try {
-      // Calculate total wins for each player using the pre-fetched data
-      const updatedStandings = leagueData.map((player) => ({
-        ...player,
-        totalWins: player.teams.reduce(
-          (sum, team) => sum + (teamWins[team.abbreviation.toUpperCase()] || 0),
-          0
-        ),
-      }));
-
-      // Sort by total wins in descending order
-      updatedStandings.sort((a, b) => b.totalWins - a.totalWins);
-
-      setStandings(updatedStandings);
-    } catch (err) {
-      console.error("Error processing standings:", err);
-      setError("Failed to process standings data.");
-    } finally {
-      setLoading(false);
-    }
-  }, [teamWins]);
-
-  if (loading) {
-    return (
-      <div className="flex items-center justify-center min-h-screen">
-        <div className="text-2xl font-bold">Loading standings...</div>
-      </div>
-    );
-  }
+  const sortedPlayers = useMemo(() => {
+    // clone array to avoid mutating props
+    return [...players].sort((a, b) => b.totalWins - a.totalWins);
+  }, [players]);
 
   return (
     <div className="container mx-auto px-4 py-8">
@@ -71,12 +37,6 @@ export default function StandingsClient({ teamWins, lastUpdated }: StandingsClie
         </p>
       )}
 
-      {error && (
-        <div className="bg-yellow-900 border border-yellow-700 text-yellow-100 px-4 py-3 rounded mb-6">
-          {error}
-        </div>
-      )}
-
       <div className="overflow-x-auto">
         <table className="w-full border-collapse">
           <thead>
@@ -90,7 +50,7 @@ export default function StandingsClient({ teamWins, lastUpdated }: StandingsClie
             </tr>
           </thead>
           <tbody>
-            {standings.map((player, index) => (
+            {sortedPlayers.map((player, index) => (
               <React.Fragment key={player.id}>
                 <tr
                   className={`border-b border-gray-700 hover:bg-gray-800 transition cursor-pointer ${
@@ -115,10 +75,7 @@ export default function StandingsClient({ teamWins, lastUpdated }: StandingsClie
                   <td className="px-6 py-4">
                     <div className="flex flex-wrap gap-2">
                       {player.teams.map((team) => (
-                        <span
-                          key={team.abbreviation}
-                          className="bg-blue-600 px-3 py-1 rounded text-sm font-medium"
-                        >
+                        <span key={team.abbreviation} className="bg-blue-600 px-3 py-1 rounded text-sm font-medium">
                           {team.abbreviation}
                         </span>
                       ))}
@@ -140,7 +97,7 @@ export default function StandingsClient({ teamWins, lastUpdated }: StandingsClie
                                 <span className="font-medium">{team.name}</span>
                                 <span className="text-gray-400 ml-2">({team.abbreviation})</span>
                               </div>
-                              <span className="font-bold text-blue-400">{teamWins[team.abbreviation.toUpperCase()] || 0} wins</span>
+                              <span className="font-bold text-blue-400">{team.wins || 0} wins</span>
                             </div>
                           ))}
                         </div>
@@ -160,9 +117,6 @@ export default function StandingsClient({ teamWins, lastUpdated }: StandingsClie
           <li>• Each player owns 3 NBA teams</li>
           <li>• Total wins are calculated by summing the wins of all 3 teams</li>
           <li>• Player with the most total wins at season end wins the prize</li>
-          <li>
-            • Standings update every hour with the latest NBA data
-          </li>
         </ul>
       </div>
     </div>
