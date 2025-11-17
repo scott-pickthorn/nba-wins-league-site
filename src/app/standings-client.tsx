@@ -89,7 +89,7 @@ export default function StandingsClient({ players, lastUpdated }: StandingsClien
                   <tr className="bg-gray-750 border-b border-gray-700">
                     <td colSpan={4} className="px-6 py-4">
                       <div className="text-gray-300">
-                        <p className="font-semibold mb-3">{player.name}'s Team Breakdown:</p>
+                        <p className="font-semibold mb-3">{player.name}&apos;s Team Breakdown:</p>
                         <div className="space-y-2">
                           {player.teams.map((team) => (
                             <div key={team.abbreviation} className="flex justify-between items-center bg-gray-800 px-4 py-2 rounded">

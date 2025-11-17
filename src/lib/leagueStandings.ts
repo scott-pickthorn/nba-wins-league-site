@@ -22,7 +22,7 @@ function readStandings(): StandingsFile | null {
     const raw = fs.readFileSync(p, 'utf-8');
     return JSON.parse(raw) as StandingsFile;
   } catch (err) {
-    console.warn('Could not read public/standings.json:', err?.message || err);
+    console.warn('Could not read public/standings.json:', (err as Error)?.message || err);
     return null;
   }
 }
