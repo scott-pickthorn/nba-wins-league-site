@@ -1,0 +1,225 @@
+{
+  "lastUpdated": "2025-11-17T06:33:22.596Z",
+  "players": [
+    {
+      "id": 1,
+      "name": "James",
+      "teams": [
+        {
+          "abbreviation": "OKC",
+          "name": "Oklahoma City Thunder",
+          "wins": 13
+        },
+        {
+          "abbreviation": "DET",
+          "name": "Detroit Pistons",
+          "wins": 11
+        },
+        {
+          "abbreviation": "UTA",
+          "name": "Utah Jazz",
+          "wins": 5
+        }
+      ],
+      "totalWins": 29
+    },
+    {
+      "id": 2,
+      "name": "AJ",
+      "teams": [
+        {
+          "abbreviation": "DEN",
+          "name": "Denver Nuggets",
+          "wins": 10
+        },
+        {
+          "abbreviation": "DAL",
+          "name": "Dallas Mavericks",
+          "wins": 4
+        },
+        {
+          "abbreviation": "WAS",
+          "name": "Washington Wizards",
+          "wins": 1
+        }
+      ],
+      "totalWins": 15
+    },
+    {
+      "id": 3,
+      "name": "Aaron",
+      "teams": [
+        {
+          "abbreviation": "CLE",
+          "name": "Cleveland Cavaliers",
+          "wins": 9
+        },
+        {
+          "abbreviation": "SAS",
+          "name": "San Antonio Spurs",
+          "wins": 9
+        },
+        {
+          "abbreviation": "POR",
+          "name": "Portland Trail Blazers",
+          "wins": 6
+        }
+      ],
+      "totalWins": 24
+    },
+    {
+      "id": 4,
+      "name": "Kyle",
+      "teams": [
+        {
+          "abbreviation": "NYK",
+          "name": "New York Knicks",
+          "wins": 8
+        },
+        {
+          "abbreviation": "ATL",
+          "name": "Atlanta Hawks",
+          "wins": 9
+        },
+        {
+          "abbreviation": "CHA",
+          "name": "Charlotte Hornets",
+          "wins": 4
+        }
+      ],
+      "totalWins": 21
+    },
+    {
+      "id": 5,
+      "name": "Luke",
+      "teams": [
+        {
+          "abbreviation": "ORL",
+          "name": "Orlando Magic",
+          "wins": 7
+        },
+        {
+          "abbreviation": "TOR",
+          "name": "Toronto Raptors",
+          "wins": 8
+        },
+        {
+          "abbreviation": "CHI",
+          "name": "Chicago Bulls",
+          "wins": 6
+        }
+      ],
+      "totalWins": 21
+    },
+    {
+      "id": 6,
+      "name": "Godfrey",
+      "teams": [
+        {
+          "abbreviation": "GSW",
+          "name": "Golden State Warriors",
+          "wins": 9
+        },
+        {
+          "abbreviation": "MEM",
+          "name": "Memphis Grizzlies",
+          "wins": 4
+        },
+        {
+          "abbreviation": "NOP",
+          "name": "New Orleans Pelicans",
+          "wins": 2
+        }
+      ],
+      "totalWins": 15
+    },
+    {
+      "id": 7,
+      "name": "Gardepie",
+      "teams": [
+        {
+          "abbreviation": "PHI",
+          "name": "Philadelphia 76ers",
+          "wins": 7
+        },
+        {
+          "abbreviation": "BOS",
+          "name": "Boston Celtics",
+          "wins": 7
+        },
+        {
+          "abbreviation": "BKN",
+          "name": "Brooklyn Nets",
+          "wins": 2
+        }
+      ],
+      "totalWins": 16
+    },
+    {
+      "id": 8,
+      "name": "Eric",
+      "teams": [
+        {
+          "abbreviation": "LAC",
+          "name": "Los Angeles Clippers",
+          "wins": 4
+        },
+        {
+          "abbreviation": "IND",
+          "name": "Indiana Pacers",
+          "wins": 1
+        },
+        {
+          "abbreviation": "SAC",
+          "name": "Sacramento Kings",
+          "wins": 3
+        }
+      ],
+      "totalWins": 8
+    },
+    {
+      "id": 9,
+      "name": "Drake",
+      "teams": [
+        {
+          "abbreviation": "LAL",
+          "name": "Los Angeles Lakers",
+          "wins": 10
+        },
+        {
+          "abbreviation": "MIN",
+          "name": "Minnesota Timberwolves",
+          "wins": 8
+        },
+        {
+          "abbreviation": "MIA",
+          "name": "Miami Heat",
+          "wins": 7
+        }
+      ],
+      "totalWins": 25
+    },
+    {
+      "id": 10,
+      "name": "Scott",
+      "teams": [
+        {
+          "abbreviation": "HOU",
+          "name": "Houston Rockets",
+          "wins": 9
+        },
+        {
+          "abbreviation": "MIL",
+          "name": "Milwaukee Bucks",
+          "wins": 8
+        },
+        {
+          "abbreviation": "PHX",
+          "name": "Phoenix Suns",
+          "wins": 8
+        }
+      ],
+      "totalWins": 25
+    }
+  ]
+}
