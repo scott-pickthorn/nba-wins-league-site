@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-17T06:33:22.596Z",
+  "lastUpdated": "2025-11-18T07:27:04.265Z",
   "players": [
     {
       "id": 1,
@@ -8,12 +8,12 @@
         {
           "abbreviation": "OKC",
           "name": "Oklahoma City Thunder",
-          "wins": 13
+          "wins": 14
         },
         {
           "abbreviation": "DET",
           "name": "Detroit Pistons",
-          "wins": 11
+          "wins": 12
         },
         {
           "abbreviation": "UTA",
@@ -21,7 +21,7 @@
           "wins": 5
         }
       ],
-      "totalWins": 29
+      "totalWins": 31
     },
     {
       "id": 2,
@@ -52,7 +52,7 @@
         {
           "abbreviation": "CLE",
           "name": "Cleveland Cavaliers",
-          "wins": 9
+          "wins": 10
         },
         {
           "abbreviation": "SAS",
@@ -65,7 +65,7 @@
           "wins": 6
         }
       ],
-      "totalWins": 24
+      "totalWins": 25
     },
     {
       "id": 4,
@@ -101,15 +101,15 @@
         {
           "abbreviation": "TOR",
           "name": "Toronto Raptors",
-          "wins": 8
+          "wins": 9
         },
         {
           "abbreviation": "CHI",
           "name": "Chicago Bulls",
-          "wins": 6
+          "wins": 7
         }
       ],
-      "totalWins": 21
+      "totalWins": 23
     },
     {
       "id": 6,
@@ -140,7 +140,7 @@
         {
           "abbreviation": "PHI",
           "name": "Philadelphia 76ers",
-          "wins": 7
+          "wins": 8
         },
         {
           "abbreviation": "BOS",
@@ -153,7 +153,7 @@
           "wins": 2
         }
       ],
-      "totalWins": 16
+      "totalWins": 17
     },
     {
       "id": 8,
@@ -189,15 +189,15 @@
         {
           "abbreviation": "MIN",
           "name": "Minnesota Timberwolves",
-          "wins": 8
+          "wins": 9
         },
         {
           "abbreviation": "MIA",
           "name": "Miami Heat",
-          "wins": 7
+          "wins": 8
         }
       ],
-      "totalWins": 25
+      "totalWins": 27
     },
     {
       "id": 10,
