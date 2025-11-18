@@ -38,13 +38,15 @@ export default function StandingsClient({ players, lastUpdated }: StandingsClien
       )}
 
       <div className="overflow-x-auto">
-        <table className="w-full border-collapse">
+        <table className="w-full border-collapse text-sm sm:text-base">
           <thead>
             <tr className="bg-gray-800 border-b-2 border-gray-600">
-              <th className="px-6 py-4 text-left font-bold text-lg">Rank</th>
-              <th className="px-6 py-4 text-left font-bold text-lg">Player</th>
-              <th className="px-6 py-4 text-left font-bold text-lg">Teams</th>
-              <th className="px-6 py-4 text-center font-bold text-lg">
+              <th className="px-3 py-3 sm:px-6 sm:py-4 text-left font-bold text-base sm:text-lg">Rank</th>
+              <th className="px-3 py-3 sm:px-6 sm:py-4 text-left font-bold text-base sm:text-lg">Player</th>
+              <th className="px-3 py-3 sm:px-6 sm:py-4 text-left font-bold text-base sm:text-lg hidden md:table-cell">
+                Teams
+              </th>
+              <th className="px-3 py-3 sm:px-6 sm:py-4 text-center font-bold text-base sm:text-lg">
                 Total Wins
               </th>
             </tr>
@@ -64,15 +66,25 @@ export default function StandingsClient({ players, lastUpdated }: StandingsClien
                   }`}
                   onClick={() => setExpandedPlayerId(expandedPlayerId === player.id ? null : player.id)}
                 >
-                  <td className="px-6 py-4">
+                  <td className="px-3 py-3 sm:px-6 sm:py-4">
                     <span className="text-2xl font-bold">
                       {index === 0 ? "🥇" : index === 1 ? "🥈" : index === 2 ? "🥉" : index + 1}
                     </span>
                   </td>
-                  <td className="px-6 py-4 font-semibold text-lg">
-                    {player.name}
+                  <td className="px-3 py-3 sm:px-6 sm:py-4 font-semibold text-base sm:text-lg align-top">
+                    <div>{player.name}</div>
+                    <div className="mt-2 flex flex-wrap gap-1 sm:gap-2 md:hidden">
+                      {player.teams.map((team) => (
+                        <span
+                          key={team.abbreviation}
+                          className="bg-blue-600 px-2 py-0.5 rounded text-xs font-medium uppercase tracking-wide"
+                        >
+                          {team.abbreviation}
+                        </span>
+                      ))}
+                    </div>
                   </td>
-                  <td className="px-6 py-4">
+                  <td className="px-3 py-3 sm:px-6 sm:py-4 hidden md:table-cell">
                     <div className="flex flex-wrap gap-2">
                       {player.teams.map((team) => (
                         <span key={team.abbreviation} className="bg-blue-600 px-3 py-1 rounded text-sm font-medium">
@@ -81,7 +93,7 @@ export default function StandingsClient({ players, lastUpdated }: StandingsClien
                       ))}
                     </div>
                   </td>
-                  <td className="px-6 py-4 text-center font-bold text-xl">
+                  <td className="px-3 py-3 sm:px-6 sm:py-4 text-center font-bold text-lg sm:text-xl whitespace-nowrap">
                     {player.totalWins}
                   </td>
                 </tr>
