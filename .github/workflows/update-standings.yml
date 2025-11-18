@@ -26,6 +26,13 @@ jobs:
           echo "SPORTS_API_KEY=${{ secrets.SPORTS_API_KEY }}" > .env.local
           npm run fetch-standings
 
+      - name: Verify .env.local
+        run: |
+          cat .env.local
+          if [ ! -s .env.local ]; then
+            echo "Error: .env.local is empty or missing" && exit 1;
+          fi
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
