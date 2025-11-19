@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-18T07:27:04.265Z",
+  "lastUpdated": "2025-11-19T17:39:15.172Z",
   "players": [
     {
       "id": 1,
@@ -13,7 +13,7 @@
         {
           "abbreviation": "DET",
           "name": "Detroit Pistons",
-          "wins": 12
+          "wins": 13
         },
         {
           "abbreviation": "UTA",
@@ -21,7 +21,7 @@
           "wins": 5
         }
       ],
-      "totalWins": 31
+      "totalWins": 32
     },
     {
       "id": 2,
@@ -57,7 +57,7 @@
         {
           "abbreviation": "SAS",
           "name": "San Antonio Spurs",
-          "wins": 9
+          "wins": 10
         },
         {
           "abbreviation": "POR",
@@ -65,7 +65,7 @@
           "wins": 6
         }
       ],
-      "totalWins": 25
+      "totalWins": 26
     },
     {
       "id": 4,
@@ -96,7 +96,7 @@
         {
           "abbreviation": "ORL",
           "name": "Orlando Magic",
-          "wins": 7
+          "wins": 8
         },
         {
           "abbreviation": "TOR",
@@ -109,7 +109,7 @@
           "wins": 7
         }
       ],
-      "totalWins": 23
+      "totalWins": 24
     },
     {
       "id": 6,
@@ -145,7 +145,7 @@
         {
           "abbreviation": "BOS",
           "name": "Boston Celtics",
-          "wins": 7
+          "wins": 8
         },
         {
           "abbreviation": "BKN",
@@ -153,7 +153,7 @@
           "wins": 2
         }
       ],
-      "totalWins": 17
+      "totalWins": 18
     },
     {
       "id": 8,
@@ -184,7 +184,7 @@
         {
           "abbreviation": "LAL",
           "name": "Los Angeles Lakers",
-          "wins": 10
+          "wins": 11
         },
         {
           "abbreviation": "MIN",
@@ -197,7 +197,7 @@
           "wins": 8
         }
       ],
-      "totalWins": 27
+      "totalWins": 28
     },
     {
       "id": 10,
@@ -216,10 +216,10 @@
         {
           "abbreviation": "PHX",
           "name": "Phoenix Suns",
-          "wins": 8
+          "wins": 9
         }
       ],
-      "totalWins": 25
+      "totalWins": 26
     }
   ]
 }
