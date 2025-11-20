@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-20T01:47:24.360Z",
+  "lastUpdated": "2025-11-20T03:13:11.722Z",
   "teams": [
     {
       "team_id": 11,
@@ -76,14 +76,14 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 9
+      "wins": 10
     },
     {
       "team_id": 9,
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 1
+      "wins": 2
     },
     {
       "team_id": 22,
@@ -111,7 +111,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 8
+      "wins": 9
     },
     {
       "team_id": 10,
@@ -195,7 +195,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 9
+      "wins": 10
     },
     {
       "team_id": 20,
@@ -288,14 +288,14 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 9
+      "wins": 10
     },
     "IND": {
       "team_id": 9,
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 1
+      "wins": 2
     },
     "LAC": {
       "team_id": 22,
@@ -323,7 +323,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 8
+      "wins": 9
     },
     "MIL": {
       "team_id": 10,
@@ -407,7 +407,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 9
+      "wins": 10
     },
     "UTA": {
       "team_id": 20,
