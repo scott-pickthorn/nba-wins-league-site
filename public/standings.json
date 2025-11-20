@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-20T03:13:11.722Z",
+  "lastUpdated": "2025-11-20T04:27:25.843Z",
   "teams": [
     {
       "team_id": 11,
@@ -55,7 +55,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 10
+      "wins": 11
     },
     {
       "team_id": 8,
@@ -125,7 +125,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 9
+      "wins": 10
     },
     {
       "team_id": 29,
@@ -146,7 +146,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 14
+      "wins": 15
     },
     {
       "team_id": 14,
@@ -267,7 +267,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 10
+      "wins": 11
     },
     "DET": {
       "team_id": 8,
@@ -337,7 +337,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 9
+      "wins": 10
     },
     "NOP": {
       "team_id": 29,
@@ -358,7 +358,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 14
+      "wins": 15
     },
     "ORL": {
       "team_id": 14,
