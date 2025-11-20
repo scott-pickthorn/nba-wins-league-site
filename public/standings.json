@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-20T05:23:16.897Z",
+  "lastUpdated": "2025-11-20T06:34:56.902Z",
   "teams": [
     {
       "team_id": 11,
@@ -34,7 +34,7 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 7
+      "wins": 8
     },
     {
       "team_id": 7,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 8
+      "wins": 9
     },
     {
       "team_id": 18,
@@ -246,7 +246,7 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 7
+      "wins": 8
     },
     "CLE": {
       "team_id": 7,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 8
+      "wins": 9
     },
     "OKC": {
       "team_id": 18,
