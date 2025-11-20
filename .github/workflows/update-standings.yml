@@ -37,8 +37,22 @@ jobs:
           fi
 
       - name: Commit and push changes
+        id: commit
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add public/standings.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update NBA standings" && git push)
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "no-changes=true" >> $GITHUB_OUTPUT
+          else
+            git commit -m "Update NBA standings"
+            git push
+            echo "no-changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Trigger deploy workflow
+        if: steps.commit.outputs.no-changes == 'false'
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          event-type: trigger-deploy
