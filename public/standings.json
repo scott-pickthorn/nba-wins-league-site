@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-21T03:13:26.766Z",
+  "lastUpdated": "2025-11-21T04:27:39.924Z",
   "teams": [
     {
       "team_id": 11,
@@ -104,7 +104,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 4
+      "wins": 5
     },
     {
       "team_id": 13,
@@ -160,7 +160,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 8
+      "wins": 9
     },
     {
       "team_id": 24,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 10
+      "wins": 11
     },
     {
       "team_id": 5,
@@ -316,7 +316,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 4
+      "wins": 5
     },
     "MIA": {
       "team_id": 13,
@@ -372,7 +372,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 8
+      "wins": 9
     },
     "PHX": {
       "team_id": 24,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 10
+      "wins": 11
     },
     "TOR": {
       "team_id": 5,
