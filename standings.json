@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-22T04:25:58.885Z",
+  "lastUpdated": "2025-11-22T05:21:29.443Z",
   "teams": [
     {
       "team_id": 11,
@@ -48,14 +48,14 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 4
+      "wins": 5
     },
     {
       "team_id": 16,
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 8,
@@ -167,7 +167,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 9
+      "wins": 10
     },
     {
       "team_id": 19,
@@ -260,14 +260,14 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 4
+      "wins": 5
     },
     "DEN": {
       "team_id": 16,
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 11
+      "wins": 12
     },
     "DET": {
       "team_id": 8,
@@ -379,7 +379,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 9
+      "wins": 10
     },
     "POR": {
       "team_id": 19,
