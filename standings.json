@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-22T01:44:38.224Z",
+  "lastUpdated": "2025-11-22T03:07:08.489Z",
   "teams": [
     {
       "team_id": 11,
@@ -20,7 +20,7 @@
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 2
+      "wins": 3
     },
     {
       "team_id": 12,
@@ -41,7 +41,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 10
+      "wins": 11
     },
     {
       "team_id": 26,
@@ -195,7 +195,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 10
+      "wins": 11
     },
     {
       "team_id": 20,
@@ -232,7 +232,7 @@
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 2
+      "wins": 3
     },
     "CHA": {
       "team_id": 12,
@@ -253,7 +253,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 10
+      "wins": 11
     },
     "DAL": {
       "team_id": 26,
@@ -407,7 +407,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 10
+      "wins": 11
     },
     "UTA": {
       "team_id": 20,
