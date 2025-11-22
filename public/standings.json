@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-22T03:07:08.489Z",
+  "lastUpdated": "2025-11-22T04:25:58.885Z",
   "teams": [
     {
       "team_id": 11,
@@ -111,7 +111,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 9
+      "wins": 10
     },
     {
       "team_id": 10,
@@ -323,7 +323,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 9
+      "wins": 10
     },
     "MIL": {
       "team_id": 10,
