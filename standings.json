@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-22T06:31:20.992Z",
+  "lastUpdated": "2025-11-23T02:02:24.619Z",
   "teams": [
     {
       "team_id": 11,
@@ -90,7 +90,7 @@
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 4
+      "wins": 5
     },
     {
       "team_id": 23,
@@ -153,7 +153,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 9
+      "wins": 10
     },
     {
       "team_id": 4,
@@ -302,7 +302,7 @@
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 4
+      "wins": 5
     },
     "LAL": {
       "team_id": 23,
@@ -365,7 +365,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 9
+      "wins": 10
     },
     "PHI": {
       "team_id": 4,
