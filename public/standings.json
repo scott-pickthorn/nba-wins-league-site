@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-23T03:57:51.469Z",
+  "lastUpdated": "2025-11-23T04:38:02.096Z",
   "teams": [
     {
       "team_id": 11,
@@ -104,7 +104,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 5
+      "wins": 6
     },
     {
       "team_id": 13,
@@ -316,7 +316,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 5
+      "wins": 6
     },
     "MIA": {
       "team_id": 13,
