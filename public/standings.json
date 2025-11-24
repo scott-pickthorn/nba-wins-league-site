@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2025-11-23T06:32:53.055Z",
+  "lastUpdated": "2025-11-24T01:56:46.533Z",
   "teams": [
     {
       "team_id": 11,
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 10
+      "wins": 11
     },
     {
       "team_id": 1,
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 8
+      "wins": 9
     },
     {
       "team_id": 2,
@@ -41,7 +41,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 26,
@@ -111,7 +111,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 10
+      "wins": 11
     },
     {
       "team_id": 10,
@@ -195,7 +195,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 20,
@@ -218,14 +218,14 @@
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 10
+      "wins": 11
     },
     "BOS": {
       "team_id": 1,
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 8
+      "wins": 9
     },
     "BKN": {
       "team_id": 2,
@@ -253,7 +253,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 11
+      "wins": 12
     },
     "DAL": {
       "team_id": 26,
@@ -323,7 +323,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 10
+      "wins": 11
     },
     "MIL": {
       "team_id": 10,
@@ -407,7 +407,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 11
+      "wins": 12
     },
     "UTA": {
       "team_id": 20,
