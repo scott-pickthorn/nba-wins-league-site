@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-25T03:17:39.752Z",
+  "lastUpdated": "2025-11-25T04:29:22.969Z",
   "teams": [
     {
       "team_id": 11,
@@ -55,7 +55,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 12
+      "wins": 13
     },
     {
       "team_id": 8,
@@ -132,7 +132,7 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 2
+      "wins": 3
     },
     {
       "team_id": 3,
@@ -267,7 +267,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 12
+      "wins": 13
     },
     "DET": {
       "team_id": 8,
@@ -344,7 +344,7 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 2
+      "wins": 3
     },
     "NYK": {
       "team_id": 3,
