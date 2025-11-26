@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-26T01:49:55.944Z",
+  "lastUpdated": "2025-11-26T03:17:48.318Z",
   "teams": [
     {
       "team_id": 11,
@@ -209,7 +209,7 @@
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 1
+      "wins": 2
     }
   ],
   "teamsByAbbr": {
@@ -421,7 +421,7 @@
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 1
+      "wins": 2
     }
   }
 }
