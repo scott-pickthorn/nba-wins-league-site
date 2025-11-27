@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-27T05:24:17.696Z",
+  "lastUpdated": "2025-11-27T06:36:43.743Z",
   "teams": [
     {
       "team_id": 11,
@@ -76,7 +76,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 9,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 5,
@@ -288,7 +288,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 11
+      "wins": 12
     },
     "IND": {
       "team_id": 9,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 11
+      "wins": 12
     },
     "TOR": {
       "team_id": 5,
