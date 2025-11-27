@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-27T03:14:15.415Z",
+  "lastUpdated": "2025-11-27T04:28:32.744Z",
   "teams": [
     {
       "team_id": 11,
@@ -104,7 +104,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 6
+      "wins": 7
     },
     {
       "team_id": 13,
@@ -146,7 +146,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 17
+      "wins": 18
     },
     {
       "team_id": 14,
@@ -316,7 +316,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 6
+      "wins": 7
     },
     "MIA": {
       "team_id": 13,
@@ -358,7 +358,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 17
+      "wins": 18
     },
     "ORL": {
       "team_id": 14,
