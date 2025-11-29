@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-29T05:22:37.508Z",
+  "lastUpdated": "2025-11-29T06:33:21.910Z",
   "teams": [
     {
       "team_id": 11,
@@ -97,14 +97,14 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 13
+      "wins": 14
     },
     {
       "team_id": 28,
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 7
+      "wins": 8
     },
     {
       "team_id": 13,
@@ -309,14 +309,14 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 13
+      "wins": 14
     },
     "MEM": {
       "team_id": 28,
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 7
+      "wins": 8
     },
     "MIA": {
       "team_id": 13,
