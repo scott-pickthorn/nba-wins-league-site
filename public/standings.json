@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-29T03:14:16.450Z",
+  "lastUpdated": "2025-11-29T04:27:37.294Z",
   "teams": [
     {
       "team_id": 11,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 18,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 11
+      "wins": 12
     },
     "OKC": {
       "team_id": 18,
