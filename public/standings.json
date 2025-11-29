@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2025-11-29T01:47:45.757Z",
+  "lastUpdated": "2025-11-29T03:14:16.450Z",
   "teams": [
     {
       "team_id": 11,
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 1,
@@ -27,7 +27,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 4
+      "wins": 5
     },
     {
       "team_id": 6,
@@ -83,7 +83,7 @@
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 2
+      "wins": 3
     },
     {
       "team_id": 22,
@@ -153,14 +153,14 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 4,
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 9
+      "wins": 10
     },
     {
       "team_id": 24,
@@ -218,7 +218,7 @@
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 11
+      "wins": 12
     },
     "BOS": {
       "team_id": 1,
@@ -239,7 +239,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 4
+      "wins": 5
     },
     "CHI": {
       "team_id": 6,
@@ -295,7 +295,7 @@
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 2
+      "wins": 3
     },
     "LAC": {
       "team_id": 22,
@@ -365,14 +365,14 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 11
+      "wins": 12
     },
     "PHI": {
       "team_id": 4,
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 9
+      "wins": 10
     },
     "PHX": {
       "team_id": 24,
