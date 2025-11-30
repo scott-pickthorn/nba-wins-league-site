@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-30T02:01:07.345Z",
+  "lastUpdated": "2025-11-30T03:57:41.821Z",
   "teams": [
     {
       "team_id": 11,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 15
+      "wins": 16
     },
     {
       "team_id": 21,
@@ -83,7 +83,7 @@
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 3
+      "wins": 4
     },
     {
       "team_id": 22,
@@ -118,7 +118,7 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 8
+      "wins": 9
     },
     {
       "team_id": 17,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 15
+      "wins": 16
     },
     "GSW": {
       "team_id": 21,
@@ -295,7 +295,7 @@
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 3
+      "wins": 4
     },
     "LAC": {
       "team_id": 22,
@@ -330,7 +330,7 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 8
+      "wins": 9
     },
     "MIN": {
       "team_id": 17,
