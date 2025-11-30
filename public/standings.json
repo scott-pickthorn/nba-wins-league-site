@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-29T06:33:21.910Z",
+  "lastUpdated": "2025-11-30T02:01:07.345Z",
   "teams": [
     {
       "team_id": 11,
@@ -27,7 +27,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 5
+      "wins": 6
     },
     {
       "team_id": 6,
@@ -125,7 +125,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 10
+      "wins": 11
     },
     {
       "team_id": 29,
@@ -239,7 +239,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 5
+      "wins": 6
     },
     "CHI": {
       "team_id": 6,
@@ -337,7 +337,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 10
+      "wins": 11
     },
     "NOP": {
       "team_id": 29,
