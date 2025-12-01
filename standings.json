@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2025-12-01T02:08:45.448Z",
+  "lastUpdated": "2025-12-01T04:12:24.579Z",
   "teams": [
     {
       "team_id": 11,
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 12
+      "wins": 13
     },
     {
       "team_id": 1,
@@ -125,7 +125,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 29,
@@ -218,7 +218,7 @@
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 12
+      "wins": 13
     },
     "BOS": {
       "team_id": 1,
@@ -337,7 +337,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 11
+      "wins": 12
     },
     "NOP": {
       "team_id": 29,
