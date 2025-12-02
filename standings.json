@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-02T03:21:47.092Z",
+  "lastUpdated": "2025-12-02T04:33:35.120Z",
   "teams": [
     {
       "team_id": 11,
@@ -48,7 +48,7 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 6
+      "wins": 7
     },
     {
       "team_id": 16,
@@ -260,7 +260,7 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 6
+      "wins": 7
     },
     "DEN": {
       "team_id": 16,
