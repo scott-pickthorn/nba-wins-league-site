@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-02T01:52:31.905Z",
+  "lastUpdated": "2025-12-02T03:21:47.092Z",
   "teams": [
     {
       "team_id": 11,
@@ -20,7 +20,7 @@
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 3
+      "wins": 4
     },
     {
       "team_id": 12,
@@ -41,7 +41,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 12
+      "wins": 13
     },
     {
       "team_id": 26,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 16
+      "wins": 17
     },
     {
       "team_id": 21,
@@ -111,7 +111,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 13
+      "wins": 14
     },
     {
       "team_id": 10,
@@ -153,7 +153,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 12
+      "wins": 13
     },
     {
       "team_id": 4,
@@ -209,7 +209,7 @@
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 2
+      "wins": 3
     }
   ],
   "teamsByAbbr": {
@@ -232,7 +232,7 @@
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 3
+      "wins": 4
     },
     "CHA": {
       "team_id": 12,
@@ -253,7 +253,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 12
+      "wins": 13
     },
     "DAL": {
       "team_id": 26,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 16
+      "wins": 17
     },
     "GSW": {
       "team_id": 21,
@@ -323,7 +323,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 13
+      "wins": 14
     },
     "MIL": {
       "team_id": 10,
@@ -365,7 +365,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 12
+      "wins": 13
     },
     "PHI": {
       "team_id": 4,
@@ -421,7 +421,7 @@
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 2
+      "wins": 3
     }
   }
 }
