@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-03T03:20:19.709Z",
+  "lastUpdated": "2025-12-03T04:31:55.614Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 2,
@@ -125,7 +125,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 12
+      "wins": 13
     },
     {
       "team_id": 29,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 13
+      "wins": 14
     },
     {
       "team_id": 5,
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 11
+      "wins": 12
     },
     "BKN": {
       "team_id": 2,
@@ -337,7 +337,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 12
+      "wins": 13
     },
     "NOP": {
       "team_id": 29,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 13
+      "wins": 14
     },
     "TOR": {
       "team_id": 5,
