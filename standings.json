@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-04T03:22:25.755Z",
+  "lastUpdated": "2025-12-04T04:33:57.056Z",
   "teams": [
     {
       "team_id": 11,
@@ -20,7 +20,7 @@
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 4
+      "wins": 5
     },
     {
       "team_id": 12,
@@ -48,7 +48,7 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 7
+      "wins": 8
     },
     {
       "team_id": 16,
@@ -118,7 +118,7 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 9
+      "wins": 10
     },
     {
       "team_id": 17,
@@ -232,7 +232,7 @@
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 4
+      "wins": 5
     },
     "CHA": {
       "team_id": 12,
@@ -260,7 +260,7 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 7
+      "wins": 8
     },
     "DEN": {
       "team_id": 16,
@@ -330,7 +330,7 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 9
+      "wins": 10
     },
     "MIN": {
       "team_id": 17,
