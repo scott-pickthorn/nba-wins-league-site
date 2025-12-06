@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-06T03:12:20.434Z",
+  "lastUpdated": "2025-12-06T04:27:31.422Z",
   "teams": [
     {
       "team_id": 11,
@@ -27,7 +27,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 6
+      "wins": 7
     },
     {
       "team_id": 6,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 17
+      "wins": 18
     },
     {
       "team_id": 21,
@@ -76,14 +76,14 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 14
+      "wins": 15
     },
     {
       "team_id": 9,
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 4
+      "wins": 5
     },
     {
       "team_id": 22,
@@ -104,7 +104,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 9
+      "wins": 10
     },
     {
       "team_id": 13,
@@ -160,7 +160,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 12
+      "wins": 13
     },
     {
       "team_id": 24,
@@ -239,7 +239,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 6
+      "wins": 7
     },
     "CHI": {
       "team_id": 6,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 17
+      "wins": 18
     },
     "GSW": {
       "team_id": 21,
@@ -288,14 +288,14 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 14
+      "wins": 15
     },
     "IND": {
       "team_id": 9,
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 4
+      "wins": 5
     },
     "LAC": {
       "team_id": 22,
@@ -316,7 +316,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 9
+      "wins": 10
     },
     "MIA": {
       "team_id": 13,
@@ -372,7 +372,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 12
+      "wins": 13
     },
     "PHX": {
       "team_id": 24,
