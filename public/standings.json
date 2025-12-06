@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-06T01:46:52.323Z",
+  "lastUpdated": "2025-12-06T03:12:20.434Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 13
+      "wins": 14
     },
     {
       "team_id": 2,
@@ -41,7 +41,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 13
+      "wins": 14
     },
     {
       "team_id": 26,
@@ -55,7 +55,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 15
+      "wins": 16
     },
     {
       "team_id": 8,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 14
+      "wins": 15
     },
     {
       "team_id": 18,
@@ -153,7 +153,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 13
+      "wins": 14
     },
     {
       "team_id": 4,
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 13
+      "wins": 14
     },
     "BKN": {
       "team_id": 2,
@@ -253,7 +253,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 13
+      "wins": 14
     },
     "DAL": {
       "team_id": 26,
@@ -267,7 +267,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 15
+      "wins": 16
     },
     "DET": {
       "team_id": 8,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 14
+      "wins": 15
     },
     "OKC": {
       "team_id": 18,
@@ -365,7 +365,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 13
+      "wins": 14
     },
     "PHI": {
       "team_id": 4,
