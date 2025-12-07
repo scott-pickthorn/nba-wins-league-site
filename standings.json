@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2025-12-07T02:01:41.312Z",
+  "lastUpdated": "2025-12-07T03:57:52.586Z",
   "teams": [
     {
       "team_id": 11,
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 13
+      "wins": 14
     },
     {
       "team_id": 1,
@@ -48,7 +48,7 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 8
+      "wins": 9
     },
     {
       "team_id": 16,
@@ -62,14 +62,14 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 18
+      "wins": 19
     },
     {
       "team_id": 21,
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 27,
@@ -125,7 +125,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 14
+      "wins": 15
     },
     {
       "team_id": 29,
@@ -181,7 +181,7 @@
       "name": "Sacramento",
       "mascot": "Kings",
       "abbreviation": "SAC",
-      "wins": 5
+      "wins": 6
     },
     {
       "team_id": 30,
@@ -218,7 +218,7 @@
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 13
+      "wins": 14
     },
     "BOS": {
       "team_id": 1,
@@ -260,7 +260,7 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 8
+      "wins": 9
     },
     "DEN": {
       "team_id": 16,
@@ -274,14 +274,14 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 18
+      "wins": 19
     },
     "GSW": {
       "team_id": 21,
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 11
+      "wins": 12
     },
     "HOU": {
       "team_id": 27,
@@ -337,7 +337,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 14
+      "wins": 15
     },
     "NOP": {
       "team_id": 29,
@@ -393,7 +393,7 @@
       "name": "Sacramento",
       "mascot": "Kings",
       "abbreviation": "SAC",
-      "wins": 5
+      "wins": 6
     },
     "SAS": {
       "team_id": 30,
