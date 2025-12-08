@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-08T01:54:09.233Z",
+  "lastUpdated": "2025-12-08T03:24:59.657Z",
   "teams": [
     {
       "team_id": 11,
@@ -69,7 +69,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 12
+      "wins": 13
     },
     {
       "team_id": 27,
@@ -97,14 +97,14 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 16
+      "wins": 17
     },
     {
       "team_id": 28,
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 10
+      "wins": 11
     },
     {
       "team_id": 13,
@@ -281,7 +281,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 12
+      "wins": 13
     },
     "HOU": {
       "team_id": 27,
@@ -309,14 +309,14 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 16
+      "wins": 17
     },
     "MEM": {
       "team_id": 28,
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 10
+      "wins": 11
     },
     "MIA": {
       "team_id": 13,
