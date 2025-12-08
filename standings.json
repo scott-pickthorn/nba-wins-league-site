@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-07T06:32:47.474Z",
+  "lastUpdated": "2025-12-08T01:54:09.233Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 14
+      "wins": 15
     },
     {
       "team_id": 2,
@@ -55,7 +55,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 16
+      "wins": 17
     },
     {
       "team_id": 8,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 15
+      "wins": 16
     },
     {
       "team_id": 18,
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 14
+      "wins": 15
     },
     "BKN": {
       "team_id": 2,
@@ -267,7 +267,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 16
+      "wins": 17
     },
     "DET": {
       "team_id": 8,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 15
+      "wins": 16
     },
     "OKC": {
       "team_id": 18,
