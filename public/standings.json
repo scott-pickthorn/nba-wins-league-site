@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-09T01:53:26.408Z",
+  "lastUpdated": "2025-12-09T03:21:36.979Z",
   "teams": [
     {
       "team_id": 11,
@@ -83,7 +83,7 @@
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 5
+      "wins": 6
     },
     {
       "team_id": 22,
@@ -167,7 +167,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 13
+      "wins": 14
     },
     {
       "team_id": 19,
@@ -295,7 +295,7 @@
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 5
+      "wins": 6
     },
     "LAC": {
       "team_id": 22,
@@ -379,7 +379,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 13
+      "wins": 14
     },
     "POR": {
       "team_id": 19,
