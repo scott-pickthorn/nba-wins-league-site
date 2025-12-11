@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-11T01:56:46.371Z",
+  "lastUpdated": "2025-12-11T03:38:23.661Z",
   "teams": [
     {
       "team_id": 11,
@@ -146,7 +146,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 23
+      "wins": 24
     },
     {
       "team_id": 14,
@@ -358,7 +358,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 23
+      "wins": 24
     },
     "ORL": {
       "team_id": 14,
