@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-12T01:55:55.512Z",
+  "lastUpdated": "2025-12-12T03:27:37.294Z",
   "teams": [
     {
       "team_id": 11,
@@ -118,7 +118,7 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 10
+      "wins": 11
     },
     {
       "team_id": 17,
@@ -330,7 +330,7 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 10
+      "wins": 11
     },
     "MIN": {
       "team_id": 17,
