@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-13T01:49:44.951Z",
+  "lastUpdated": "2025-12-13T03:18:42.983Z",
   "teams": [
     {
       "team_id": 11,
@@ -34,14 +34,14 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 9
+      "wins": 10
     },
     {
       "team_id": 7,
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 14
+      "wins": 15
     },
     {
       "team_id": 26,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 19
+      "wins": 20
     },
     {
       "team_id": 21,
@@ -160,7 +160,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 13
+      "wins": 14
     },
     {
       "team_id": 24,
@@ -246,14 +246,14 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 9
+      "wins": 10
     },
     "CLE": {
       "team_id": 7,
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 14
+      "wins": 15
     },
     "DAL": {
       "team_id": 26,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 19
+      "wins": 20
     },
     "GSW": {
       "team_id": 21,
@@ -372,7 +372,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 13
+      "wins": 14
     },
     "PHX": {
       "team_id": 24,
