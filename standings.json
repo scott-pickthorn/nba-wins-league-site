@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-15T03:47:44.942Z",
+  "lastUpdated": "2025-12-15T04:44:00.090Z",
   "teams": [
     {
       "team_id": 11,
@@ -97,7 +97,7 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 17
+      "wins": 18
     },
     {
       "team_id": 28,
@@ -174,7 +174,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 9
+      "wins": 10
     },
     {
       "team_id": 25,
@@ -309,7 +309,7 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 17
+      "wins": 18
     },
     "MEM": {
       "team_id": 28,
@@ -386,7 +386,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 9
+      "wins": 10
     },
     "SAC": {
       "team_id": 25,
