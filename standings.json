@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2025-12-14T06:34:42.053Z",
+  "lastUpdated": "2025-12-15T01:59:50.637Z",
   "teams": [
     {
       "team_id": 11,
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 14
+      "wins": 15
     },
     {
       "team_id": 1,
@@ -20,14 +20,14 @@
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 6
+      "wins": 7
     },
     {
       "team_id": 12,
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 7
+      "wins": 8
     },
     {
       "team_id": 6,
@@ -209,7 +209,7 @@
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 3
+      "wins": 4
     }
   ],
   "teamsByAbbr": {
@@ -218,7 +218,7 @@
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 14
+      "wins": 15
     },
     "BOS": {
       "team_id": 1,
@@ -232,14 +232,14 @@
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 6
+      "wins": 7
     },
     "CHA": {
       "team_id": 12,
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 7
+      "wins": 8
     },
     "CHI": {
       "team_id": 6,
@@ -421,7 +421,7 @@
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 3
+      "wins": 4
     }
   }
 }
