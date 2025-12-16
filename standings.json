@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-16T01:56:38.892Z",
+  "lastUpdated": "2025-12-16T04:38:11.855Z",
   "teams": [
     {
       "team_id": 11,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 20
+      "wins": 21
     },
     {
       "team_id": 21,
@@ -195,7 +195,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 15
+      "wins": 16
     },
     {
       "team_id": 20,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 20
+      "wins": 21
     },
     "GSW": {
       "team_id": 21,
@@ -407,7 +407,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 15
+      "wins": 16
     },
     "UTA": {
       "team_id": 20,
