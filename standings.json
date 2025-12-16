@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-16T04:38:11.855Z",
+  "lastUpdated": "2025-12-16T06:38:54.485Z",
   "teams": [
     {
       "team_id": 11,
@@ -55,7 +55,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 18
+      "wins": 19
     },
     {
       "team_id": 8,
@@ -104,7 +104,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 13,
@@ -202,7 +202,7 @@
       "name": "Utah",
       "mascot": "Jazz",
       "abbreviation": "UTA",
-      "wins": 9
+      "wins": 10
     },
     {
       "team_id": 15,
@@ -267,7 +267,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 18
+      "wins": 19
     },
     "DET": {
       "team_id": 8,
@@ -316,7 +316,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 11
+      "wins": 12
     },
     "MIA": {
       "team_id": 13,
@@ -414,7 +414,7 @@
       "name": "Utah",
       "mascot": "Jazz",
       "abbreviation": "UTA",
-      "wins": 9
+      "wins": 10
     },
     "WAS": {
       "team_id": 15,
