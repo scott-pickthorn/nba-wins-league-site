@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-18T01:52:28.189Z",
+  "lastUpdated": "2025-12-18T03:23:54.409Z",
   "teams": [
     {
       "team_id": 11,
@@ -34,7 +34,7 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 10
+      "wins": 11
     },
     {
       "team_id": 7,
@@ -246,7 +246,7 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 10
+      "wins": 11
     },
     "CLE": {
       "team_id": 7,
