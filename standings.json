@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-19T05:25:49.388Z",
+  "lastUpdated": "2025-12-19T06:37:02.783Z",
   "teams": [
     {
       "team_id": 11,
@@ -174,7 +174,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 10
+      "wins": 11
     },
     {
       "team_id": 25,
@@ -386,7 +386,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 10
+      "wins": 11
     },
     "SAC": {
       "team_id": 25,
