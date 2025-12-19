@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-19T01:55:38.633Z",
+  "lastUpdated": "2025-12-19T03:27:09.891Z",
   "teams": [
     {
       "team_id": 11,
@@ -27,7 +27,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 8
+      "wins": 9
     },
     {
       "team_id": 6,
@@ -111,7 +111,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 14
+      "wins": 15
     },
     {
       "team_id": 10,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 18
+      "wins": 19
     },
     {
       "team_id": 18,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 18
+      "wins": 19
     },
     {
       "team_id": 5,
@@ -239,7 +239,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 8
+      "wins": 9
     },
     "CHI": {
       "team_id": 6,
@@ -323,7 +323,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 14
+      "wins": 15
     },
     "MIL": {
       "team_id": 10,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 18
+      "wins": 19
     },
     "OKC": {
       "team_id": 18,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 18
+      "wins": 19
     },
     "TOR": {
       "team_id": 5,
