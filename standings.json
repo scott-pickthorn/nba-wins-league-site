@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-19T04:36:54.946Z",
+  "lastUpdated": "2025-12-19T05:25:49.388Z",
   "teams": [
     {
       "team_id": 11,
@@ -97,7 +97,7 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 18
+      "wins": 19
     },
     {
       "team_id": 28,
@@ -167,7 +167,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 14
+      "wins": 15
     },
     {
       "team_id": 19,
@@ -309,7 +309,7 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 18
+      "wins": 19
     },
     "MEM": {
       "team_id": 28,
@@ -379,7 +379,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 14
+      "wins": 15
     },
     "POR": {
       "team_id": 19,
