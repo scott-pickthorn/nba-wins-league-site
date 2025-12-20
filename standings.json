@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-20T01:49:34.417Z",
+  "lastUpdated": "2025-12-20T04:29:36.165Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 15
+      "wins": 16
     },
     {
       "team_id": 2,
@@ -34,7 +34,7 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 7,
@@ -160,7 +160,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 14
+      "wins": 15
     },
     {
       "team_id": 24,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 19
+      "wins": 20
     },
     {
       "team_id": 5,
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 15
+      "wins": 16
     },
     "BKN": {
       "team_id": 2,
@@ -246,7 +246,7 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 11
+      "wins": 12
     },
     "CLE": {
       "team_id": 7,
@@ -372,7 +372,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 14
+      "wins": 15
     },
     "PHX": {
       "team_id": 24,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 19
+      "wins": 20
     },
     "TOR": {
       "team_id": 5,
