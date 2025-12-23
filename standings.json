@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-23T01:57:04.445Z",
+  "lastUpdated": "2025-12-23T03:41:06.099Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 17
+      "wins": 18
     },
     {
       "team_id": 2,
@@ -41,7 +41,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 15
+      "wins": 16
     },
     {
       "team_id": 26,
@@ -132,7 +132,7 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 7
+      "wins": 8
     },
     {
       "team_id": 3,
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 17
+      "wins": 18
     },
     "BKN": {
       "team_id": 2,
@@ -253,7 +253,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 15
+      "wins": 16
     },
     "DAL": {
       "team_id": 26,
@@ -344,7 +344,7 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 7
+      "wins": 8
     },
     "NYK": {
       "team_id": 3,
