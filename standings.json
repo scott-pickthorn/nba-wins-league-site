@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-23T05:27:24.454Z",
+  "lastUpdated": "2025-12-23T06:38:56.984Z",
   "teams": [
     {
       "team_id": 11,
@@ -62,14 +62,14 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 22
+      "wins": 23
     },
     {
       "team_id": 21,
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 14
+      "wins": 15
     },
     {
       "team_id": 27,
@@ -274,14 +274,14 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 22
+      "wins": 23
     },
     "GSW": {
       "team_id": 21,
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 14
+      "wins": 15
     },
     "HOU": {
       "team_id": 27,
