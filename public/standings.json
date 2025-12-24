@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-24T03:27:15.237Z",
+  "lastUpdated": "2025-12-24T04:38:23.679Z",
   "teams": [
     {
       "team_id": 11,
@@ -48,7 +48,7 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 16,
@@ -104,7 +104,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 13
+      "wins": 14
     },
     {
       "team_id": 13,
@@ -125,7 +125,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 19
+      "wins": 20
     },
     {
       "team_id": 29,
@@ -167,7 +167,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 15
+      "wins": 16
     },
     {
       "team_id": 19,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 21
+      "wins": 22
     },
     {
       "team_id": 5,
@@ -260,7 +260,7 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 11
+      "wins": 12
     },
     "DEN": {
       "team_id": 16,
@@ -316,7 +316,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 13
+      "wins": 14
     },
     "MIA": {
       "team_id": 13,
@@ -337,7 +337,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 19
+      "wins": 20
     },
     "NOP": {
       "team_id": 29,
@@ -379,7 +379,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 15
+      "wins": 16
     },
     "POR": {
       "team_id": 19,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 21
+      "wins": 22
     },
     "TOR": {
       "team_id": 5,
