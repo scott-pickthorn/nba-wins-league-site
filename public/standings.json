@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-24T01:55:05.299Z",
+  "lastUpdated": "2025-12-24T03:27:15.237Z",
   "teams": [
     {
       "team_id": 11,
@@ -20,28 +20,28 @@
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 8
+      "wins": 9
     },
     {
       "team_id": 12,
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 9
+      "wins": 10
     },
     {
       "team_id": 6,
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 13
+      "wins": 14
     },
     {
       "team_id": 7,
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 16
+      "wins": 17
     },
     {
       "team_id": 26,
@@ -118,7 +118,7 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 17,
@@ -195,7 +195,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 17
+      "wins": 18
     },
     {
       "team_id": 20,
@@ -232,28 +232,28 @@
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 8
+      "wins": 9
     },
     "CHA": {
       "team_id": 12,
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 9
+      "wins": 10
     },
     "CHI": {
       "team_id": 6,
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 13
+      "wins": 14
     },
     "CLE": {
       "team_id": 7,
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 16
+      "wins": 17
     },
     "DAL": {
       "team_id": 26,
@@ -330,7 +330,7 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 11
+      "wins": 12
     },
     "MIN": {
       "team_id": 17,
@@ -407,7 +407,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 17
+      "wins": 18
     },
     "UTA": {
       "team_id": 20,
