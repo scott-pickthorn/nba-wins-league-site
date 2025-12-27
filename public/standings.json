@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-27T01:54:11.784Z",
+  "lastUpdated": "2025-12-27T03:26:04.686Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 18
+      "wins": 19
     },
     {
       "team_id": 2,
@@ -27,14 +27,14 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 10
+      "wins": 11
     },
     {
       "team_id": 6,
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 14
+      "wins": 15
     },
     {
       "team_id": 7,
@@ -111,7 +111,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 15
+      "wins": 16
     },
     {
       "team_id": 10,
@@ -209,7 +209,7 @@
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 5
+      "wins": 6
     }
   ],
   "teamsByAbbr": {
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 18
+      "wins": 19
     },
     "BKN": {
       "team_id": 2,
@@ -239,14 +239,14 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 10
+      "wins": 11
     },
     "CHI": {
       "team_id": 6,
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 14
+      "wins": 15
     },
     "CLE": {
       "team_id": 7,
@@ -323,7 +323,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 15
+      "wins": 16
     },
     "MIL": {
       "team_id": 10,
@@ -421,7 +421,7 @@
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 5
+      "wins": 6
     }
   }
 }
