@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T03:41:42.974Z",
+  "lastUpdated": "2025-12-31T04:40:50.261Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 19
+      "wins": 20
     },
     {
       "team_id": 2,
@@ -160,7 +160,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 16
+      "wins": 17
     },
     {
       "team_id": 24,
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 19
+      "wins": 20
     },
     "BKN": {
       "team_id": 2,
@@ -372,7 +372,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 16
+      "wins": 17
     },
     "PHX": {
       "team_id": 24,
