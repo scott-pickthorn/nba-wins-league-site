@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2025-12-31T06:38:58.356Z",
+  "lastUpdated": "2026-01-01T02:08:22.290Z",
   "teams": [
     {
       "team_id": 11,
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 15
+      "wins": 16
     },
     {
       "team_id": 1,
@@ -41,7 +41,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 18
+      "wins": 19
     },
     {
       "team_id": 26,
@@ -69,7 +69,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 17
+      "wins": 18
     },
     {
       "team_id": 27,
@@ -153,7 +153,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 18
+      "wins": 19
     },
     {
       "team_id": 4,
@@ -218,7 +218,7 @@
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 15
+      "wins": 16
     },
     "BOS": {
       "team_id": 1,
@@ -253,7 +253,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 18
+      "wins": 19
     },
     "DAL": {
       "team_id": 26,
@@ -281,7 +281,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 17
+      "wins": 18
     },
     "HOU": {
       "team_id": 27,
@@ -365,7 +365,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 18
+      "wins": 19
     },
     "PHI": {
       "team_id": 4,
