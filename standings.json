@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T03:46:14.911Z",
+  "lastUpdated": "2026-01-02T04:44:29.822Z",
   "teams": [
     {
       "team_id": 11,
@@ -160,7 +160,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 17
+      "wins": 18
     },
     {
       "team_id": 24,
@@ -372,7 +372,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 17
+      "wins": 18
     },
     "PHX": {
       "team_id": 24,
