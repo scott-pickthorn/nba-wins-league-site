@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T04:44:29.822Z",
+  "lastUpdated": "2026-01-02T05:28:58.709Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 20
+      "wins": 21
     },
     {
       "team_id": 2,
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 20
+      "wins": 21
     },
     "BKN": {
       "team_id": 2,
