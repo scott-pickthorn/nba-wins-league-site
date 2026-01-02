@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T06:38:54.165Z",
+  "lastUpdated": "2026-01-02T01:59:28.209Z",
   "teams": [
     {
       "team_id": 11,
@@ -76,7 +76,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 20
+      "wins": 21
     },
     {
       "team_id": 9,
@@ -288,7 +288,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 20
+      "wins": 21
     },
     "IND": {
       "team_id": 9,
