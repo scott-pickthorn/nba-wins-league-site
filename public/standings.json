@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T03:25:17.802Z",
+  "lastUpdated": "2026-01-03T04:35:15.669Z",
   "teams": [
     {
       "team_id": 11,
@@ -118,7 +118,7 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 14
+      "wins": 15
     },
     {
       "team_id": 17,
@@ -167,14 +167,14 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 19
+      "wins": 20
     },
     {
       "team_id": 19,
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 14
+      "wins": 15
     },
     {
       "team_id": 25,
@@ -330,7 +330,7 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 14
+      "wins": 15
     },
     "MIN": {
       "team_id": 17,
@@ -379,14 +379,14 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 19
+      "wins": 20
     },
     "POR": {
       "team_id": 19,
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 14
+      "wins": 15
     },
     "SAC": {
       "team_id": 25,
