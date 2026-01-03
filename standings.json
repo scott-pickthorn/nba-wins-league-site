@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-01-03T01:53:27.141Z",
+  "lastUpdated": "2026-01-03T03:25:17.802Z",
   "teams": [
     {
       "team_id": 11,
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 16
+      "wins": 17
     },
     {
       "team_id": 1,
@@ -34,14 +34,14 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 16
+      "wins": 17
     },
     {
       "team_id": 7,
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 19
+      "wins": 20
     },
     {
       "team_id": 26,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 24
+      "wins": 25
     },
     {
       "team_id": 5,
@@ -209,7 +209,7 @@
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 8
+      "wins": 9
     }
   ],
   "teamsByAbbr": {
@@ -218,7 +218,7 @@
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 16
+      "wins": 17
     },
     "BOS": {
       "team_id": 1,
@@ -246,14 +246,14 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 16
+      "wins": 17
     },
     "CLE": {
       "team_id": 7,
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 19
+      "wins": 20
     },
     "DAL": {
       "team_id": 26,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 24
+      "wins": 25
     },
     "TOR": {
       "team_id": 5,
@@ -421,7 +421,7 @@
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 8
+      "wins": 9
     }
   }
 }
