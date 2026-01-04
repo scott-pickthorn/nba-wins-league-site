@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T02:09:32.452Z",
+  "lastUpdated": "2026-01-04T04:12:21.394Z",
   "teams": [
     {
       "team_id": 11,
@@ -27,7 +27,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 6,
@@ -48,7 +48,7 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 12
+      "wins": 13
     },
     {
       "team_id": 16,
@@ -160,7 +160,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 18
+      "wins": 19
     },
     {
       "team_id": 24,
@@ -174,7 +174,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 15
+      "wins": 16
     },
     {
       "team_id": 25,
@@ -195,7 +195,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 20
+      "wins": 21
     },
     {
       "team_id": 20,
@@ -239,7 +239,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 11
+      "wins": 12
     },
     "CHI": {
       "team_id": 6,
@@ -260,7 +260,7 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 12
+      "wins": 13
     },
     "DEN": {
       "team_id": 16,
@@ -372,7 +372,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 18
+      "wins": 19
     },
     "PHX": {
       "team_id": 24,
@@ -386,7 +386,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 15
+      "wins": 16
     },
     "SAC": {
       "team_id": 25,
@@ -407,7 +407,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 20
+      "wins": 21
     },
     "UTA": {
       "team_id": 20,
