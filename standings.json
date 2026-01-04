@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T04:12:21.394Z",
+  "lastUpdated": "2026-01-04T05:28:53.125Z",
   "teams": [
     {
       "team_id": 11,
@@ -69,7 +69,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 18
+      "wins": 19
     },
     {
       "team_id": 27,
@@ -281,7 +281,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 18
+      "wins": 19
     },
     "HOU": {
       "team_id": 27,
