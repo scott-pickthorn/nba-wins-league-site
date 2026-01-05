@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T04:17:54.218Z",
+  "lastUpdated": "2026-01-05T05:37:18.221Z",
   "teams": [
     {
       "team_id": 11,
@@ -97,7 +97,7 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 21
+      "wins": 22
     },
     {
       "team_id": 28,
@@ -118,7 +118,7 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 15
+      "wins": 16
     },
     {
       "team_id": 17,
@@ -309,7 +309,7 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 21
+      "wins": 22
     },
     "MEM": {
       "team_id": 28,
@@ -330,7 +330,7 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 15
+      "wins": 16
     },
     "MIN": {
       "team_id": 17,
