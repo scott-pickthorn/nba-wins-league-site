@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T06:37:02.986Z",
+  "lastUpdated": "2026-01-05T02:09:15.288Z",
   "teams": [
     {
       "team_id": 11,
@@ -20,7 +20,7 @@
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 10
+      "wins": 11
     },
     {
       "team_id": 12,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 25
+      "wins": 26
     },
     {
       "team_id": 21,
@@ -111,7 +111,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 19
+      "wins": 20
     },
     {
       "team_id": 10,
@@ -125,7 +125,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 22
+      "wins": 23
     },
     {
       "team_id": 29,
@@ -153,7 +153,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 19
+      "wins": 20
     },
     {
       "team_id": 4,
@@ -232,7 +232,7 @@
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 10
+      "wins": 11
     },
     "CHA": {
       "team_id": 12,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 25
+      "wins": 26
     },
     "GSW": {
       "team_id": 21,
@@ -323,7 +323,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 19
+      "wins": 20
     },
     "MIL": {
       "team_id": 10,
@@ -337,7 +337,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 22
+      "wins": 23
     },
     "NOP": {
       "team_id": 29,
@@ -365,7 +365,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 19
+      "wins": 20
     },
     "PHI": {
       "team_id": 4,
