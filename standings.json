@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T03:44:30.599Z",
+  "lastUpdated": "2026-01-06T04:42:30.787Z",
   "teams": [
     {
       "team_id": 11,
@@ -55,7 +55,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 23
+      "wins": 24
     },
     {
       "team_id": 8,
@@ -76,7 +76,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 21
+      "wins": 22
     },
     {
       "team_id": 9,
@@ -267,7 +267,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 23
+      "wins": 24
     },
     "DET": {
       "team_id": 8,
@@ -288,7 +288,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 21
+      "wins": 22
     },
     "IND": {
       "team_id": 9,
