@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T01:59:21.250Z",
+  "lastUpdated": "2026-01-06T03:44:30.599Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 22
+      "wins": 23
     },
     {
       "team_id": 2,
@@ -27,7 +27,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 12
+      "wins": 13
     },
     {
       "team_id": 6,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 26
+      "wins": 27
     },
     {
       "team_id": 21,
@@ -195,7 +195,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 21
+      "wins": 22
     },
     {
       "team_id": 20,
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 22
+      "wins": 23
     },
     "BKN": {
       "team_id": 2,
@@ -239,7 +239,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 12
+      "wins": 13
     },
     "CHI": {
       "team_id": 6,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 26
+      "wins": 27
     },
     "GSW": {
       "team_id": 21,
@@ -407,7 +407,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 21
+      "wins": 22
     },
     "UTA": {
       "team_id": 20,
