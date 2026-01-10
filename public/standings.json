@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T01:56:42.139Z",
+  "lastUpdated": "2026-01-10T03:37:32.069Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 23
+      "wins": 24
     },
     {
       "team_id": 2,
@@ -90,7 +90,7 @@
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 13
+      "wins": 14
     },
     {
       "team_id": 23,
@@ -132,7 +132,7 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 8
+      "wins": 9
     },
     {
       "team_id": 3,
@@ -160,7 +160,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 20
+      "wins": 21
     },
     {
       "team_id": 24,
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 23
+      "wins": 24
     },
     "BKN": {
       "team_id": 2,
@@ -302,7 +302,7 @@
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 13
+      "wins": 14
     },
     "LAL": {
       "team_id": 23,
@@ -344,7 +344,7 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 8
+      "wins": 9
     },
     "NYK": {
       "team_id": 3,
@@ -372,7 +372,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 20
+      "wins": 21
     },
     "PHX": {
       "team_id": 24,
