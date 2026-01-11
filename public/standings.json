@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T04:11:31.712Z",
+  "lastUpdated": "2026-01-11T05:28:58.436Z",
   "teams": [
     {
       "team_id": 11,
@@ -27,7 +27,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 13
+      "wins": 14
     },
     {
       "team_id": 6,
@@ -239,7 +239,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 13
+      "wins": 14
     },
     "CHI": {
       "team_id": 6,
