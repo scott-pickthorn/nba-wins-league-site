@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T02:09:10.443Z",
+  "lastUpdated": "2026-01-11T04:11:31.712Z",
   "teams": [
     {
       "team_id": 11,
@@ -34,7 +34,7 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 17
+      "wins": 18
     },
     {
       "team_id": 7,
@@ -83,14 +83,14 @@
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 7
+      "wins": 8
     },
     {
       "team_id": 22,
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 14
+      "wins": 15
     },
     {
       "team_id": 23,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 26
+      "wins": 27
     },
     {
       "team_id": 5,
@@ -246,7 +246,7 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 17
+      "wins": 18
     },
     "CLE": {
       "team_id": 7,
@@ -295,14 +295,14 @@
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 7
+      "wins": 8
     },
     "LAC": {
       "team_id": 22,
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 14
+      "wins": 15
     },
     "LAL": {
       "team_id": 23,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 26
+      "wins": 27
     },
     "TOR": {
       "team_id": 5,
