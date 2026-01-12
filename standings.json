@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T06:37:10.414Z",
+  "lastUpdated": "2026-01-12T02:05:29.512Z",
   "teams": [
     {
       "team_id": 11,
@@ -104,7 +104,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 16
+      "wins": 17
     },
     {
       "team_id": 13,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 24
+      "wins": 25
     },
     {
       "team_id": 18,
@@ -153,7 +153,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 21
+      "wins": 22
     },
     {
       "team_id": 4,
@@ -316,7 +316,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 16
+      "wins": 17
     },
     "MIA": {
       "team_id": 13,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 24
+      "wins": 25
     },
     "OKC": {
       "team_id": 18,
@@ -365,7 +365,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 21
+      "wins": 22
     },
     "PHI": {
       "team_id": 4,
