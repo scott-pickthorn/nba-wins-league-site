@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-14T05:28:12.003Z",
+  "lastUpdated": "2026-01-14T06:39:35.131Z",
   "teams": [
     {
       "team_id": 11,
@@ -69,7 +69,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 21
+      "wins": 22
     },
     {
       "team_id": 27,
@@ -97,7 +97,7 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 23
+      "wins": 24
     },
     {
       "team_id": 28,
@@ -281,7 +281,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 21
+      "wins": 22
     },
     "HOU": {
       "team_id": 27,
@@ -309,7 +309,7 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 23
+      "wins": 24
     },
     "MEM": {
       "team_id": 28,
