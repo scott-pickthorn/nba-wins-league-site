@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-15T01:58:59.508Z",
+  "lastUpdated": "2026-01-15T03:47:10.168Z",
   "teams": [
     {
       "team_id": 11,
@@ -34,14 +34,14 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 18
+      "wins": 19
     },
     {
       "team_id": 7,
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 22
+      "wins": 23
     },
     {
       "team_id": 26,
@@ -132,7 +132,7 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 9
+      "wins": 10
     },
     {
       "team_id": 3,
@@ -195,7 +195,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 24
+      "wins": 25
     },
     {
       "team_id": 20,
@@ -246,14 +246,14 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 18
+      "wins": 19
     },
     "CLE": {
       "team_id": 7,
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 22
+      "wins": 23
     },
     "DAL": {
       "team_id": 26,
@@ -344,7 +344,7 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 9
+      "wins": 10
     },
     "NYK": {
       "team_id": 3,
@@ -407,7 +407,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 24
+      "wins": 25
     },
     "UTA": {
       "team_id": 20,
