@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-16T02:01:15.264Z",
+  "lastUpdated": "2026-01-16T04:03:25.123Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 24
+      "wins": 25
     },
     {
       "team_id": 2,
@@ -48,7 +48,7 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 15
+      "wins": 16
     },
     {
       "team_id": 16,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 28
+      "wins": 29
     },
     {
       "team_id": 21,
@@ -146,7 +146,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 34
+      "wins": 35
     },
     {
       "team_id": 14,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 27
+      "wins": 28
     },
     {
       "team_id": 5,
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 24
+      "wins": 25
     },
     "BKN": {
       "team_id": 2,
@@ -260,7 +260,7 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 15
+      "wins": 16
     },
     "DEN": {
       "team_id": 16,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 28
+      "wins": 29
     },
     "GSW": {
       "team_id": 21,
@@ -358,7 +358,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 34
+      "wins": 35
     },
     "ORL": {
       "team_id": 14,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 27
+      "wins": 28
     },
     "TOR": {
       "team_id": 5,
