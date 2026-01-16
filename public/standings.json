@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-16T05:30:08.477Z",
+  "lastUpdated": "2026-01-16T06:39:44.718Z",
   "teams": [
     {
       "team_id": 11,
@@ -27,7 +27,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 14
+      "wins": 15
     },
     {
       "team_id": 6,
@@ -69,7 +69,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 22
+      "wins": 23
     },
     {
       "team_id": 27,
@@ -239,7 +239,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 14
+      "wins": 15
     },
     "CHI": {
       "team_id": 6,
@@ -281,7 +281,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 22
+      "wins": 23
     },
     "HOU": {
       "team_id": 27,
