@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-17T01:55:18.066Z",
+  "lastUpdated": "2026-01-17T03:25:56.761Z",
   "teams": [
     {
       "team_id": 11,
@@ -20,7 +20,7 @@
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 12,
@@ -41,7 +41,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 23
+      "wins": 24
     },
     {
       "team_id": 26,
@@ -83,7 +83,7 @@
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 9
+      "wins": 10
     },
     {
       "team_id": 22,
@@ -232,7 +232,7 @@
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 11
+      "wins": 12
     },
     "CHA": {
       "team_id": 12,
@@ -253,7 +253,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 23
+      "wins": 24
     },
     "DAL": {
       "team_id": 26,
@@ -295,7 +295,7 @@
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 9
+      "wins": 10
     },
     "LAC": {
       "team_id": 22,
