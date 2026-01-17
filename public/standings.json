@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-17T05:23:59.263Z",
+  "lastUpdated": "2026-01-17T06:35:52.947Z",
   "teams": [
     {
       "team_id": 11,
@@ -76,7 +76,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 23
+      "wins": 24
     },
     {
       "team_id": 9,
@@ -181,7 +181,7 @@
       "name": "Sacramento",
       "mascot": "Kings",
       "abbreviation": "SAC",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 30,
@@ -288,7 +288,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 23
+      "wins": 24
     },
     "IND": {
       "team_id": 9,
@@ -393,7 +393,7 @@
       "name": "Sacramento",
       "mascot": "Kings",
       "abbreviation": "SAC",
-      "wins": 11
+      "wins": 12
     },
     "SAS": {
       "team_id": 30,
