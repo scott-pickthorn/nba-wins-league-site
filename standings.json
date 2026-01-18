@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T02:08:14.697Z",
+  "lastUpdated": "2026-01-18T04:07:28.059Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 25
+      "wins": 26
     },
     {
       "team_id": 2,
@@ -62,14 +62,14 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 29
+      "wins": 30
     },
     {
       "team_id": 21,
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 23
+      "wins": 24
     },
     {
       "team_id": 27,
@@ -111,7 +111,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 21
+      "wins": 22
     },
     {
       "team_id": 10,
@@ -167,7 +167,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 24
+      "wins": 25
     },
     {
       "team_id": 19,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 28
+      "wins": 29
     },
     {
       "team_id": 5,
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 25
+      "wins": 26
     },
     "BKN": {
       "team_id": 2,
@@ -274,14 +274,14 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 29
+      "wins": 30
     },
     "GSW": {
       "team_id": 21,
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 23
+      "wins": 24
     },
     "HOU": {
       "team_id": 27,
@@ -323,7 +323,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 21
+      "wins": 22
     },
     "MIL": {
       "team_id": 10,
@@ -379,7 +379,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 24
+      "wins": 25
     },
     "POR": {
       "team_id": 19,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 28
+      "wins": 29
     },
     "TOR": {
       "team_id": 5,
