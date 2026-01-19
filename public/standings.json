@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T02:06:01.644Z",
+  "lastUpdated": "2026-01-19T04:13:46.427Z",
   "teams": [
     {
       "team_id": 11,
@@ -27,14 +27,14 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 15
+      "wins": 16
     },
     {
       "team_id": 6,
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 19
+      "wins": 20
     },
     {
       "team_id": 7,
@@ -76,7 +76,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 24
+      "wins": 25
     },
     {
       "team_id": 9,
@@ -239,14 +239,14 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 15
+      "wins": 16
     },
     "CHI": {
       "team_id": 6,
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 19
+      "wins": 20
     },
     "CLE": {
       "team_id": 7,
@@ -288,7 +288,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 24
+      "wins": 25
     },
     "IND": {
       "team_id": 9,
