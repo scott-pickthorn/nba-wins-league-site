@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-21T02:03:46.727Z",
+  "lastUpdated": "2026-01-21T04:07:37.830Z",
   "teams": [
     {
       "team_id": 11,
@@ -34,7 +34,7 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 20
+      "wins": 21
     },
     {
       "team_id": 7,
@@ -76,7 +76,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 25
+      "wins": 26
     },
     {
       "team_id": 9,
@@ -167,7 +167,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 26
+      "wins": 27
     },
     {
       "team_id": 19,
@@ -246,7 +246,7 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 20
+      "wins": 21
     },
     "CLE": {
       "team_id": 7,
@@ -288,7 +288,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 25
+      "wins": 26
     },
     "IND": {
       "team_id": 9,
@@ -379,7 +379,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 26
+      "wins": 27
     },
     "POR": {
       "team_id": 19,
