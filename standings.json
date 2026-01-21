@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-21T05:32:01.502Z",
+  "lastUpdated": "2026-01-21T06:41:49.049Z",
   "teams": [
     {
       "team_id": 11,
@@ -97,7 +97,7 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 25
+      "wins": 26
     },
     {
       "team_id": 28,
@@ -195,7 +195,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 25
+      "wins": 26
     },
     {
       "team_id": 20,
@@ -309,7 +309,7 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 25
+      "wins": 26
     },
     "MEM": {
       "team_id": 28,
@@ -407,7 +407,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 25
+      "wins": 26
     },
     "UTA": {
       "team_id": 20,
