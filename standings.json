@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-21T04:07:37.830Z",
+  "lastUpdated": "2026-01-21T05:32:01.502Z",
   "teams": [
     {
       "team_id": 11,
@@ -111,7 +111,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 22
+      "wins": 23
     },
     {
       "team_id": 10,
@@ -202,7 +202,7 @@
       "name": "Utah",
       "mascot": "Jazz",
       "abbreviation": "UTA",
-      "wins": 14
+      "wins": 15
     },
     {
       "team_id": 15,
@@ -323,7 +323,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 22
+      "wins": 23
     },
     "MIL": {
       "team_id": 10,
@@ -414,7 +414,7 @@
       "name": "Utah",
       "mascot": "Jazz",
       "abbreviation": "UTA",
-      "wins": 14
+      "wins": 15
     },
     "WAS": {
       "team_id": 15,
