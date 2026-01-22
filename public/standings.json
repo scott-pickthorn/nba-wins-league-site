@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-01-22T02:04:30.362Z",
+  "lastUpdated": "2026-01-22T04:10:51.588Z",
   "teams": [
     {
       "team_id": 11,
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 20
+      "wins": 21
     },
     {
       "team_id": 1,
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 26
+      "wins": 27
     },
     {
       "team_id": 2,
@@ -41,7 +41,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 24
+      "wins": 25
     },
     {
       "team_id": 26,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 31
+      "wins": 32
     },
     {
       "team_id": 21,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 25
+      "wins": 26
     },
     {
       "team_id": 18,
@@ -218,14 +218,14 @@
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 20
+      "wins": 21
     },
     "BOS": {
       "team_id": 1,
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 26
+      "wins": 27
     },
     "BKN": {
       "team_id": 2,
@@ -253,7 +253,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 24
+      "wins": 25
     },
     "DAL": {
       "team_id": 26,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 31
+      "wins": 32
     },
     "GSW": {
       "team_id": 21,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 25
+      "wins": 26
     },
     "OKC": {
       "team_id": 18,
