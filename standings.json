@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-23T04:05:52.734Z",
+  "lastUpdated": "2026-01-23T05:31:18.761Z",
   "teams": [
     {
       "team_id": 11,
@@ -174,7 +174,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 22
+      "wins": 23
     },
     {
       "team_id": 25,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 30
+      "wins": 31
     },
     {
       "team_id": 5,
@@ -386,7 +386,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 22
+      "wins": 23
     },
     "SAC": {
       "team_id": 25,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 30
+      "wins": 31
     },
     "TOR": {
       "team_id": 5,
