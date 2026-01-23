@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-23T05:31:18.761Z",
+  "lastUpdated": "2026-01-23T06:40:10.811Z",
   "teams": [
     {
       "team_id": 11,
@@ -90,7 +90,7 @@
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 19
+      "wins": 20
     },
     {
       "team_id": 23,
@@ -302,7 +302,7 @@
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 19
+      "wins": 20
     },
     "LAL": {
       "team_id": 23,
