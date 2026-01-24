@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T05:25:27.765Z",
+  "lastUpdated": "2026-01-24T06:36:59.024Z",
   "teams": [
     {
       "team_id": 11,
@@ -195,7 +195,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 27
+      "wins": 28
     },
     {
       "team_id": 20,
@@ -407,7 +407,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 27
+      "wins": 28
     },
     "UTA": {
       "team_id": 20,
