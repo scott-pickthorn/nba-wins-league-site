@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-01-24T01:57:08.941Z",
+  "lastUpdated": "2026-01-24T03:41:15.319Z",
   "teams": [
     {
       "team_id": 11,
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 21
+      "wins": 22
     },
     {
       "team_id": 1,
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 27
+      "wins": 28
     },
     {
       "team_id": 2,
@@ -41,7 +41,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 25
+      "wins": 26
     },
     {
       "team_id": 26,
@@ -76,14 +76,14 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 26
+      "wins": 27
     },
     {
       "team_id": 9,
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 10
+      "wins": 11
     },
     {
       "team_id": 22,
@@ -132,7 +132,7 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 10
+      "wins": 11
     },
     {
       "team_id": 3,
@@ -218,14 +218,14 @@
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 21
+      "wins": 22
     },
     "BOS": {
       "team_id": 1,
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 27
+      "wins": 28
     },
     "BKN": {
       "team_id": 2,
@@ -253,7 +253,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 25
+      "wins": 26
     },
     "DAL": {
       "team_id": 26,
@@ -288,14 +288,14 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 26
+      "wins": 27
     },
     "IND": {
       "team_id": 9,
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 10
+      "wins": 11
     },
     "LAC": {
       "team_id": 22,
@@ -344,7 +344,7 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 10
+      "wins": 11
     },
     "NYK": {
       "team_id": 3,
