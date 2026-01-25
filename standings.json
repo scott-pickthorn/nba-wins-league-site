@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T06:36:59.024Z",
+  "lastUpdated": "2026-01-25T02:11:24.802Z",
   "teams": [
     {
       "team_id": 11,
@@ -27,7 +27,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 17
+      "wins": 18
     },
     {
       "team_id": 6,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 26
+      "wins": 27
     },
     {
       "team_id": 18,
@@ -239,7 +239,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 17
+      "wins": 18
     },
     "CHI": {
       "team_id": 6,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 26
+      "wins": 27
     },
     "OKC": {
       "team_id": 18,
