@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T02:11:24.802Z",
+  "lastUpdated": "2026-01-25T04:15:28.700Z",
   "teams": [
     {
       "team_id": 11,
@@ -34,14 +34,14 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 22
+      "wins": 23
     },
     {
       "team_id": 7,
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 26
+      "wins": 27
     },
     {
       "team_id": 26,
@@ -97,7 +97,7 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 26
+      "wins": 27
     },
     {
       "team_id": 28,
@@ -246,14 +246,14 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 22
+      "wins": 23
     },
     "CLE": {
       "team_id": 7,
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 26
+      "wins": 27
     },
     "DAL": {
       "team_id": 26,
@@ -309,7 +309,7 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 26
+      "wins": 27
     },
     "MEM": {
       "team_id": 28,
