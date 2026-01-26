@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T02:10:34.736Z",
+  "lastUpdated": "2026-01-26T04:17:55.009Z",
   "teams": [
     {
       "team_id": 11,
@@ -111,7 +111,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 24
+      "wins": 25
     },
     {
       "team_id": 10,
@@ -132,7 +132,7 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 3,
@@ -195,7 +195,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 28
+      "wins": 29
     },
     {
       "team_id": 20,
@@ -323,7 +323,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 24
+      "wins": 25
     },
     "MIL": {
       "team_id": 10,
@@ -344,7 +344,7 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 11
+      "wins": 12
     },
     "NYK": {
       "team_id": 3,
@@ -407,7 +407,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 28
+      "wins": 29
     },
     "UTA": {
       "team_id": 20,
