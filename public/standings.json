@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-01-26T06:42:46.536Z",
+  "lastUpdated": "2026-01-27T02:07:28.944Z",
   "teams": [
     {
       "team_id": 11,
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 22
+      "wins": 23
     },
     {
       "team_id": 1,
@@ -27,7 +27,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 18
+      "wins": 19
     },
     {
       "team_id": 6,
@@ -218,7 +218,7 @@
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 22
+      "wins": 23
     },
     "BOS": {
       "team_id": 1,
@@ -239,7 +239,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 18
+      "wins": 19
     },
     "CHI": {
       "team_id": 6,
