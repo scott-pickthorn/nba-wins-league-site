@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T04:08:00.321Z",
+  "lastUpdated": "2026-01-28T05:31:46.524Z",
   "teams": [
     {
       "team_id": 11,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 33
+      "wins": 34
     },
     {
       "team_id": 21,
@@ -139,14 +139,14 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 27
+      "wins": 28
     },
     {
       "team_id": 18,
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 37
+      "wins": 38
     },
     {
       "team_id": 14,
@@ -160,14 +160,14 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 24
+      "wins": 25
     },
     {
       "team_id": 24,
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 27
+      "wins": 28
     },
     {
       "team_id": 19,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 33
+      "wins": 34
     },
     "GSW": {
       "team_id": 21,
@@ -351,14 +351,14 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 27
+      "wins": 28
     },
     "OKC": {
       "team_id": 18,
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 37
+      "wins": 38
     },
     "ORL": {
       "team_id": 14,
@@ -372,14 +372,14 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 24
+      "wins": 25
     },
     "PHX": {
       "team_id": 24,
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 27
+      "wins": 28
     },
     "POR": {
       "team_id": 19,
