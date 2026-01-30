@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-30T02:24:57.180Z",
+  "lastUpdated": "2026-01-30T04:42:51.422Z",
   "teams": [
     {
       "team_id": 11,
@@ -27,7 +27,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 20
+      "wins": 21
     },
     {
       "team_id": 6,
@@ -55,7 +55,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 31
+      "wins": 32
     },
     {
       "team_id": 8,
@@ -76,7 +76,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 28
+      "wins": 29
     },
     {
       "team_id": 9,
@@ -111,7 +111,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 25
+      "wins": 26
     },
     {
       "team_id": 10,
@@ -160,14 +160,14 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 25
+      "wins": 26
     },
     {
       "team_id": 24,
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 28
+      "wins": 29
     },
     {
       "team_id": 19,
@@ -209,7 +209,7 @@
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 11
+      "wins": 12
     }
   ],
   "teamsByAbbr": {
@@ -239,7 +239,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 20
+      "wins": 21
     },
     "CHI": {
       "team_id": 6,
@@ -267,7 +267,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 31
+      "wins": 32
     },
     "DET": {
       "team_id": 8,
@@ -288,7 +288,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 28
+      "wins": 29
     },
     "IND": {
       "team_id": 9,
@@ -323,7 +323,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 25
+      "wins": 26
     },
     "MIL": {
       "team_id": 10,
@@ -372,14 +372,14 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 25
+      "wins": 26
     },
     "PHX": {
       "team_id": 24,
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 28
+      "wins": 29
     },
     "POR": {
       "team_id": 19,
@@ -421,7 +421,7 @@
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 11
+      "wins": 12
     }
   }
 }
