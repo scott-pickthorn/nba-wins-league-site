@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T04:26:55.373Z",
+  "lastUpdated": "2026-01-31T05:40:53.300Z",
   "teams": [
     {
       "team_id": 11,
@@ -20,7 +20,7 @@
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 12
+      "wins": 13
     },
     {
       "team_id": 12,
@@ -55,7 +55,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 32
+      "wins": 33
     },
     {
       "team_id": 8,
@@ -167,7 +167,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 29
+      "wins": 30
     },
     {
       "team_id": 19,
@@ -232,7 +232,7 @@
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 12
+      "wins": 13
     },
     "CHA": {
       "team_id": 12,
@@ -267,7 +267,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 32
+      "wins": 33
     },
     "DET": {
       "team_id": 8,
@@ -379,7 +379,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 29
+      "wins": 30
     },
     "POR": {
       "team_id": 19,
