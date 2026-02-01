@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-01T02:44:51.483Z",
+  "lastUpdated": "2026-02-01T05:04:13.380Z",
   "teams": [
     {
       "team_id": 11,
@@ -34,7 +34,7 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 23
+      "wins": 24
     },
     {
       "team_id": 7,
@@ -76,7 +76,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 29
+      "wins": 30
     },
     {
       "team_id": 9,
@@ -125,7 +125,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 30
+      "wins": 31
     },
     {
       "team_id": 29,
@@ -160,7 +160,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 26
+      "wins": 27
     },
     {
       "team_id": 24,
@@ -246,7 +246,7 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 23
+      "wins": 24
     },
     "CLE": {
       "team_id": 7,
@@ -288,7 +288,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 29
+      "wins": 30
     },
     "IND": {
       "team_id": 9,
@@ -337,7 +337,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 30
+      "wins": 31
     },
     "NOP": {
       "team_id": 29,
@@ -372,7 +372,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 26
+      "wins": 27
     },
     "PHX": {
       "team_id": 24,
