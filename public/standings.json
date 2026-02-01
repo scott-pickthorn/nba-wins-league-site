@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T06:45:55.988Z",
+  "lastUpdated": "2026-02-01T02:44:51.483Z",
   "teams": [
     {
       "team_id": 11,
@@ -27,7 +27,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 21
+      "wins": 22
     },
     {
       "team_id": 6,
@@ -83,7 +83,7 @@
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 12
+      "wins": 13
     },
     {
       "team_id": 22,
@@ -239,7 +239,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 21
+      "wins": 22
     },
     "CHI": {
       "team_id": 6,
@@ -295,7 +295,7 @@
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 12
+      "wins": 13
     },
     "LAC": {
       "team_id": 22,
