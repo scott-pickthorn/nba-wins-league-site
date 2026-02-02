@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-01T06:55:26.896Z",
+  "lastUpdated": "2026-02-02T02:34:23.050Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 30
+      "wins": 31
     },
     {
       "team_id": 2,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 35
+      "wins": 36
     },
     {
       "team_id": 21,
@@ -111,7 +111,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 26
+      "wins": 27
     },
     {
       "team_id": 10,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 30
+      "wins": 31
     },
     {
       "team_id": 18,
@@ -195,7 +195,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 29
+      "wins": 30
     },
     {
       "team_id": 20,
@@ -209,7 +209,7 @@
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 12
+      "wins": 13
     }
   ],
   "teamsByAbbr": {
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 30
+      "wins": 31
     },
     "BKN": {
       "team_id": 2,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 35
+      "wins": 36
     },
     "GSW": {
       "team_id": 21,
@@ -323,7 +323,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 26
+      "wins": 27
     },
     "MIL": {
       "team_id": 10,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 30
+      "wins": 31
     },
     "OKC": {
       "team_id": 18,
@@ -407,7 +407,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 29
+      "wins": 30
     },
     "UTA": {
       "team_id": 20,
@@ -421,7 +421,7 @@
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 12
+      "wins": 13
     }
   }
 }
