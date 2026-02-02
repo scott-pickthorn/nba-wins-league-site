@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-02T02:34:23.050Z",
+  "lastUpdated": "2026-02-02T05:00:36.541Z",
   "teams": [
     {
       "team_id": 11,
@@ -41,7 +41,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 29
+      "wins": 30
     },
     {
       "team_id": 26,
@@ -90,7 +90,7 @@
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 22
+      "wins": 23
     },
     {
       "team_id": 23,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 32
+      "wins": 33
     },
     {
       "team_id": 5,
@@ -253,7 +253,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 29
+      "wins": 30
     },
     "DAL": {
       "team_id": 26,
@@ -302,7 +302,7 @@
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 22
+      "wins": 23
     },
     "LAL": {
       "team_id": 23,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 32
+      "wins": 33
     },
     "TOR": {
       "team_id": 5,
