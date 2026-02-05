@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-05T02:27:38.239Z",
+  "lastUpdated": "2026-02-05T04:50:42.014Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 32
+      "wins": 33
     },
     {
       "team_id": 2,
@@ -118,14 +118,14 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 19
+      "wins": 20
     },
     {
       "team_id": 17,
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 31
+      "wins": 32
     },
     {
       "team_id": 29,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 32
+      "wins": 33
     },
     {
       "team_id": 18,
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 32
+      "wins": 33
     },
     "BKN": {
       "team_id": 2,
@@ -330,14 +330,14 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 19
+      "wins": 20
     },
     "MIN": {
       "team_id": 17,
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 31
+      "wins": 32
     },
     "NOP": {
       "team_id": 29,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 32
+      "wins": 33
     },
     "OKC": {
       "team_id": 18,
