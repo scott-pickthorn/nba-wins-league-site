@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-07T04:40:23.308Z",
+  "lastUpdated": "2026-02-07T05:46:04.963Z",
   "teams": [
     {
       "team_id": 11,
@@ -90,7 +90,7 @@
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 23
+      "wins": 24
     },
     {
       "team_id": 23,
@@ -174,7 +174,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 23
+      "wins": 24
     },
     {
       "team_id": 25,
@@ -302,7 +302,7 @@
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 23
+      "wins": 24
     },
     "LAL": {
       "team_id": 23,
@@ -386,7 +386,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 23
+      "wins": 24
     },
     "SAC": {
       "team_id": 25,
