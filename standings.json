@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-08T05:06:06.294Z",
+  "lastUpdated": "2026-02-08T06:56:04.089Z",
   "teams": [
     {
       "team_id": 11,
@@ -41,7 +41,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 31
+      "wins": 32
     },
     {
       "team_id": 26,
@@ -174,7 +174,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 24
+      "wins": 25
     },
     {
       "team_id": 25,
@@ -253,7 +253,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 31
+      "wins": 32
     },
     "DAL": {
       "team_id": 26,
@@ -386,7 +386,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 24
+      "wins": 25
     },
     "SAC": {
       "team_id": 25,
