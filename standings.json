@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-08T02:50:42.247Z",
+  "lastUpdated": "2026-02-08T05:06:06.294Z",
   "teams": [
     {
       "team_id": 11,
@@ -27,7 +27,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 24
+      "wins": 25
     },
     {
       "team_id": 6,
@@ -55,7 +55,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 33
+      "wins": 34
     },
     {
       "team_id": 8,
@@ -97,7 +97,7 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 31
+      "wins": 32
     },
     {
       "team_id": 28,
@@ -160,7 +160,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 29
+      "wins": 30
     },
     {
       "team_id": 24,
@@ -239,7 +239,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 24
+      "wins": 25
     },
     "CHI": {
       "team_id": 6,
@@ -267,7 +267,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 33
+      "wins": 34
     },
     "DET": {
       "team_id": 8,
@@ -309,7 +309,7 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 31
+      "wins": 32
     },
     "MEM": {
       "team_id": 28,
@@ -372,7 +372,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 29
+      "wins": 30
     },
     "PHX": {
       "team_id": 24,
