@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-11T02:41:10.526Z",
+  "lastUpdated": "2026-02-11T05:05:55.208Z",
   "teams": [
     {
       "team_id": 11,
@@ -76,14 +76,14 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 32
+      "wins": 33
     },
     {
       "team_id": 9,
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 13
+      "wins": 14
     },
     {
       "team_id": 22,
@@ -167,7 +167,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 31
+      "wins": 32
     },
     {
       "team_id": 19,
@@ -288,14 +288,14 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 32
+      "wins": 33
     },
     "IND": {
       "team_id": 9,
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 13
+      "wins": 14
     },
     "LAC": {
       "team_id": 22,
@@ -379,7 +379,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 31
+      "wins": 32
     },
     "POR": {
       "team_id": 19,
