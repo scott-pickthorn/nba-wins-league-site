@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-11T07:06:18.313Z",
+  "lastUpdated": "2026-02-12T02:35:46.098Z",
   "teams": [
     {
       "team_id": 11,
@@ -41,7 +41,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 33
+      "wins": 34
     },
     {
       "team_id": 26,
@@ -118,7 +118,7 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 21
+      "wins": 22
     },
     {
       "team_id": 17,
@@ -253,7 +253,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 33
+      "wins": 34
     },
     "DAL": {
       "team_id": 26,
@@ -330,7 +330,7 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 21
+      "wins": 22
     },
     "MIN": {
       "team_id": 17,
