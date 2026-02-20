@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-19T06:02:46.247Z",
+  "lastUpdated": "2026-02-20T02:28:38.233Z",
   "teams": [
     {
       "team_id": 11,
@@ -41,7 +41,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 34
+      "wins": 35
     },
     {
       "team_id": 26,
@@ -76,7 +76,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 33
+      "wins": 34
     },
     {
       "team_id": 9,
@@ -253,7 +253,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 34
+      "wins": 35
     },
     "DAL": {
       "team_id": 26,
@@ -288,7 +288,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 33
+      "wins": 34
     },
     "IND": {
       "team_id": 9,
