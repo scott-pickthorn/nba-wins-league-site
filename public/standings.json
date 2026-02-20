@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-20T04:50:01.496Z",
+  "lastUpdated": "2026-02-20T05:56:41.307Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 35
+      "wins": 36
     },
     {
       "team_id": 2,
@@ -153,7 +153,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 28
+      "wins": 29
     },
     {
       "team_id": 4,
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 35
+      "wins": 36
     },
     "BKN": {
       "team_id": 2,
@@ -365,7 +365,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 28
+      "wins": 29
     },
     "PHI": {
       "team_id": 4,
