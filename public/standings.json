@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-22T02:33:42.060Z",
+  "lastUpdated": "2026-02-22T04:52:21.009Z",
   "teams": [
     {
       "team_id": 11,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 41
+      "wins": 42
     },
     {
       "team_id": 21,
@@ -111,7 +111,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 30
+      "wins": 31
     },
     {
       "team_id": 10,
@@ -132,14 +132,14 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 15
+      "wins": 16
     },
     {
       "team_id": 3,
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 35
+      "wins": 36
     },
     {
       "team_id": 18,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 39
+      "wins": 40
     },
     {
       "team_id": 5,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 41
+      "wins": 42
     },
     "GSW": {
       "team_id": 21,
@@ -323,7 +323,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 30
+      "wins": 31
     },
     "MIL": {
       "team_id": 10,
@@ -344,14 +344,14 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 15
+      "wins": 16
     },
     "NYK": {
       "team_id": 3,
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 35
+      "wins": 36
     },
     "OKC": {
       "team_id": 18,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 39
+      "wins": 40
     },
     "TOR": {
       "team_id": 5,
