@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-24T02:30:52.761Z",
+  "lastUpdated": "2026-02-24T04:55:35.354Z",
   "teams": [
     {
       "team_id": 11,
@@ -181,14 +181,14 @@
       "name": "Sacramento",
       "mascot": "Kings",
       "abbreviation": "SAC",
-      "wins": 12
+      "wins": 13
     },
     {
       "team_id": 30,
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 40
+      "wins": 41
     },
     {
       "team_id": 5,
@@ -393,14 +393,14 @@
       "name": "Sacramento",
       "mascot": "Kings",
       "abbreviation": "SAC",
-      "wins": 12
+      "wins": 13
     },
     "SAS": {
       "team_id": 30,
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 40
+      "wins": 41
     },
     "TOR": {
       "team_id": 5,
