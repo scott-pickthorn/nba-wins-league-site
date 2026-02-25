@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-25T04:56:06.539Z",
+  "lastUpdated": "2026-02-25T06:04:34.231Z",
   "teams": [
     {
       "team_id": 11,
@@ -125,7 +125,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 35
+      "wins": 36
     },
     {
       "team_id": 29,
@@ -153,7 +153,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 30
+      "wins": 31
     },
     {
       "team_id": 4,
@@ -337,7 +337,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 35
+      "wins": 36
     },
     "NOP": {
       "team_id": 29,
@@ -365,7 +365,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 30
+      "wins": 31
     },
     "PHI": {
       "team_id": 4,
