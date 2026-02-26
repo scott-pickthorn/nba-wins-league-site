@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-26T04:53:26.158Z",
+  "lastUpdated": "2026-02-26T06:00:34.566Z",
   "teams": [
     {
       "team_id": 11,
@@ -55,7 +55,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 36
+      "wins": 37
     },
     {
       "team_id": 8,
@@ -267,7 +267,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 36
+      "wins": 37
     },
     "DET": {
       "team_id": 8,
