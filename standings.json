@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-02-27T02:26:23.075Z",
+  "lastUpdated": "2026-02-27T04:47:39.126Z",
   "teams": [
     {
       "team_id": 11,
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 29
+      "wins": 30
     },
     {
       "team_id": 1,
@@ -76,7 +76,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 36
+      "wins": 37
     },
     {
       "team_id": 9,
@@ -132,7 +132,7 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 17
+      "wins": 18
     },
     {
       "team_id": 3,
@@ -160,35 +160,35 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 32
+      "wins": 33
     },
     {
       "team_id": 24,
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 33
+      "wins": 34
     },
     {
       "team_id": 19,
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 28
+      "wins": 29
     },
     {
       "team_id": 25,
       "name": "Sacramento",
       "mascot": "Kings",
       "abbreviation": "SAC",
-      "wins": 13
+      "wins": 14
     },
     {
       "team_id": 30,
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 42
+      "wins": 43
     },
     {
       "team_id": 5,
@@ -218,7 +218,7 @@
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 29
+      "wins": 30
     },
     "BOS": {
       "team_id": 1,
@@ -288,7 +288,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 36
+      "wins": 37
     },
     "IND": {
       "team_id": 9,
@@ -344,7 +344,7 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 17
+      "wins": 18
     },
     "NYK": {
       "team_id": 3,
@@ -372,35 +372,35 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 32
+      "wins": 33
     },
     "PHX": {
       "team_id": 24,
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 33
+      "wins": 34
     },
     "POR": {
       "team_id": 19,
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 28
+      "wins": 29
     },
     "SAC": {
       "team_id": 25,
       "name": "Sacramento",
       "mascot": "Kings",
       "abbreviation": "SAC",
-      "wins": 13
+      "wins": 14
     },
     "SAS": {
       "team_id": 30,
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 42
+      "wins": 43
     },
     "TOR": {
       "team_id": 5,
