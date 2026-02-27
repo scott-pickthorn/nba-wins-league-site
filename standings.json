@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T04:47:39.126Z",
+  "lastUpdated": "2026-02-27T05:54:46.634Z",
   "teams": [
     {
       "team_id": 11,
@@ -125,7 +125,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 36
+      "wins": 37
     },
     {
       "team_id": 29,
@@ -337,7 +337,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 36
+      "wins": 37
     },
     "NOP": {
       "team_id": 29,
