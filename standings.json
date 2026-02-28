@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T02:09:12.675Z",
+  "lastUpdated": "2026-02-28T04:17:28.311Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 38
+      "wins": 39
     },
     {
       "team_id": 2,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 43
+      "wins": 44
     },
     {
       "team_id": 21,
@@ -104,7 +104,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 21
+      "wins": 22
     },
     {
       "team_id": 13,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 37
+      "wins": 38
     },
     {
       "team_id": 18,
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 38
+      "wins": 39
     },
     "BKN": {
       "team_id": 2,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 43
+      "wins": 44
     },
     "GSW": {
       "team_id": 21,
@@ -316,7 +316,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 21
+      "wins": 22
     },
     "MIA": {
       "team_id": 13,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 37
+      "wins": 38
     },
     "OKC": {
       "team_id": 18,
