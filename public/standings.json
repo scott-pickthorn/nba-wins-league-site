@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T06:44:01.648Z",
+  "lastUpdated": "2026-03-01T02:40:08.915Z",
   "teams": [
     {
       "team_id": 11,
@@ -27,7 +27,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 29
+      "wins": 30
     },
     {
       "team_id": 6,
@@ -111,7 +111,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 31
+      "wins": 32
     },
     {
       "team_id": 10,
@@ -195,7 +195,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 34
+      "wins": 35
     },
     {
       "team_id": 20,
@@ -239,7 +239,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 29
+      "wins": 30
     },
     "CHI": {
       "team_id": 6,
@@ -323,7 +323,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 31
+      "wins": 32
     },
     "MIL": {
       "team_id": 10,
@@ -407,7 +407,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 34
+      "wins": 35
     },
     "UTA": {
       "team_id": 20,
