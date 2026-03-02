@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-02T04:50:19.604Z",
+  "lastUpdated": "2026-03-02T05:55:21.116Z",
   "teams": [
     {
       "team_id": 11,
@@ -97,7 +97,7 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 35
+      "wins": 36
     },
     {
       "team_id": 28,
@@ -309,7 +309,7 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 35
+      "wins": 36
     },
     "MEM": {
       "team_id": 28,
