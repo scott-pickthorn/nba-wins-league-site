@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-03-01T06:55:20.915Z",
+  "lastUpdated": "2026-03-02T02:29:07.021Z",
   "teams": [
     {
       "team_id": 11,
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 30
+      "wins": 31
     },
     {
       "team_id": 1,
@@ -34,14 +34,14 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 24
+      "wins": 25
     },
     {
       "team_id": 7,
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 37
+      "wins": 38
     },
     {
       "team_id": 26,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 44
+      "wins": 45
     },
     {
       "team_id": 21,
@@ -104,7 +104,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 22
+      "wins": 23
     },
     {
       "team_id": 13,
@@ -125,7 +125,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 37
+      "wins": 38
     },
     {
       "team_id": 29,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 38
+      "wins": 39
     },
     {
       "team_id": 18,
@@ -218,7 +218,7 @@
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 30
+      "wins": 31
     },
     "BOS": {
       "team_id": 1,
@@ -246,14 +246,14 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 24
+      "wins": 25
     },
     "CLE": {
       "team_id": 7,
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 37
+      "wins": 38
     },
     "DAL": {
       "team_id": 26,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 44
+      "wins": 45
     },
     "GSW": {
       "team_id": 21,
@@ -316,7 +316,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 22
+      "wins": 23
     },
     "MIA": {
       "team_id": 13,
@@ -337,7 +337,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 37
+      "wins": 38
     },
     "NOP": {
       "team_id": 29,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 38
+      "wins": 39
     },
     "OKC": {
       "team_id": 18,
