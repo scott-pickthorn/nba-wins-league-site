@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-05T06:58:00.330Z",
+  "lastUpdated": "2026-03-06T02:26:11.483Z",
   "teams": [
     {
       "team_id": 11,
@@ -202,7 +202,7 @@
       "name": "Utah",
       "mascot": "Jazz",
       "abbreviation": "UTA",
-      "wins": 18
+      "wins": 19
     },
     {
       "team_id": 15,
@@ -414,7 +414,7 @@
       "name": "Utah",
       "mascot": "Jazz",
       "abbreviation": "UTA",
-      "wins": 18
+      "wins": 19
     },
     "WAS": {
       "team_id": 15,
