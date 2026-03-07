@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T04:23:25.503Z",
+  "lastUpdated": "2026-03-07T05:39:15.091Z",
   "teams": [
     {
       "team_id": 11,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 40
+      "wins": 41
     },
     {
       "team_id": 18,
@@ -167,7 +167,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 35
+      "wins": 36
     },
     {
       "team_id": 19,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 45
+      "wins": 46
     },
     {
       "team_id": 5,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 40
+      "wins": 41
     },
     "OKC": {
       "team_id": 18,
@@ -379,7 +379,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 35
+      "wins": 36
     },
     "POR": {
       "team_id": 19,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 45
+      "wins": 46
     },
     "TOR": {
       "team_id": 5,
