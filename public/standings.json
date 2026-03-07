@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T02:12:46.339Z",
+  "lastUpdated": "2026-03-07T04:23:25.503Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 41
+      "wins": 42
     },
     {
       "team_id": 2,
@@ -76,7 +76,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 38
+      "wins": 39
     },
     {
       "team_id": 9,
@@ -111,7 +111,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 34
+      "wins": 35
     },
     {
       "team_id": 10,
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 41
+      "wins": 42
     },
     "BKN": {
       "team_id": 2,
@@ -288,7 +288,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 38
+      "wins": 39
     },
     "IND": {
       "team_id": 9,
@@ -323,7 +323,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 34
+      "wins": 35
     },
     "MIL": {
       "team_id": 10,
