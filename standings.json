@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T02:30:53.533Z",
+  "lastUpdated": "2026-03-08T04:45:42.749Z",
   "teams": [
     {
       "team_id": 11,
@@ -90,7 +90,7 @@
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 30
+      "wins": 31
     },
     {
       "team_id": 23,
@@ -118,7 +118,7 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 26
+      "wins": 27
     },
     {
       "team_id": 17,
@@ -146,7 +146,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 49
+      "wins": 50
     },
     {
       "team_id": 14,
@@ -302,7 +302,7 @@
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 30
+      "wins": 31
     },
     "LAL": {
       "team_id": 23,
@@ -330,7 +330,7 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 26
+      "wins": 27
     },
     "MIN": {
       "team_id": 17,
@@ -358,7 +358,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 49
+      "wins": 50
     },
     "ORL": {
       "team_id": 14,
