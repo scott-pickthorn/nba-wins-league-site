@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T06:50:11.333Z",
+  "lastUpdated": "2026-03-09T02:31:57.732Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 42
+      "wins": 43
     },
     {
       "team_id": 2,
@@ -97,7 +97,7 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 38
+      "wins": 39
     },
     {
       "team_id": 28,
@@ -111,7 +111,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 35
+      "wins": 36
     },
     {
       "team_id": 10,
@@ -132,7 +132,7 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 20
+      "wins": 21
     },
     {
       "team_id": 3,
@@ -153,7 +153,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 34
+      "wins": 35
     },
     {
       "team_id": 4,
@@ -195,7 +195,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 35
+      "wins": 36
     },
     {
       "team_id": 20,
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 42
+      "wins": 43
     },
     "BKN": {
       "team_id": 2,
@@ -309,7 +309,7 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 38
+      "wins": 39
     },
     "MEM": {
       "team_id": 28,
@@ -323,7 +323,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 35
+      "wins": 36
     },
     "MIL": {
       "team_id": 10,
@@ -344,7 +344,7 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 20
+      "wins": 21
     },
     "NYK": {
       "team_id": 3,
@@ -365,7 +365,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 34
+      "wins": 35
     },
     "PHI": {
       "team_id": 4,
@@ -407,7 +407,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 35
+      "wins": 36
     },
     "UTA": {
       "team_id": 20,
