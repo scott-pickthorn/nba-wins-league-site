@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T02:31:57.732Z",
+  "lastUpdated": "2026-03-09T04:54:54.997Z",
   "teams": [
     {
       "team_id": 11,
@@ -167,28 +167,28 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 36
+      "wins": 37
     },
     {
       "team_id": 19,
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 30
+      "wins": 31
     },
     {
       "team_id": 25,
       "name": "Sacramento",
       "mascot": "Kings",
       "abbreviation": "SAC",
-      "wins": 14
+      "wins": 15
     },
     {
       "team_id": 30,
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 46
+      "wins": 47
     },
     {
       "team_id": 5,
@@ -379,28 +379,28 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 36
+      "wins": 37
     },
     "POR": {
       "team_id": 19,
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 30
+      "wins": 31
     },
     "SAC": {
       "team_id": 25,
       "name": "Sacramento",
       "mascot": "Kings",
       "abbreviation": "SAC",
-      "wins": 14
+      "wins": 15
     },
     "SAS": {
       "team_id": 30,
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 46
+      "wins": 47
     },
     "TOR": {
       "team_id": 5,
