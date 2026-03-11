@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-03-10T06:56:16.618Z",
+  "lastUpdated": "2026-03-11T02:23:32.894Z",
   "teams": [
     {
       "team_id": 11,
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 33
+      "wins": 34
     },
     {
       "team_id": 1,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 45
+      "wins": 46
     },
     {
       "team_id": 21,
@@ -111,7 +111,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 36
+      "wins": 37
     },
     {
       "team_id": 10,
@@ -160,7 +160,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 34
+      "wins": 35
     },
     {
       "team_id": 24,
@@ -218,7 +218,7 @@
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 33
+      "wins": 34
     },
     "BOS": {
       "team_id": 1,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 45
+      "wins": 46
     },
     "GSW": {
       "team_id": 21,
@@ -323,7 +323,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 36
+      "wins": 37
     },
     "MIL": {
       "team_id": 10,
@@ -372,7 +372,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 34
+      "wins": 35
     },
     "PHX": {
       "team_id": 24,
