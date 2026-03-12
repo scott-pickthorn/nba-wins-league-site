@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12T02:29:43.738Z",
+  "lastUpdated": "2026-03-12T04:49:57.638Z",
   "teams": [
     {
       "team_id": 11,
@@ -27,7 +27,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 33
+      "wins": 34
     },
     {
       "team_id": 6,
@@ -55,7 +55,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 39
+      "wins": 40
     },
     {
       "team_id": 8,
@@ -132,14 +132,14 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 21
+      "wins": 22
     },
     {
       "team_id": 3,
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 41
+      "wins": 42
     },
     {
       "team_id": 18,
@@ -239,7 +239,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 33
+      "wins": 34
     },
     "CHI": {
       "team_id": 6,
@@ -267,7 +267,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 39
+      "wins": 40
     },
     "DET": {
       "team_id": 8,
@@ -344,14 +344,14 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 21
+      "wins": 22
     },
     "NYK": {
       "team_id": 3,
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 41
+      "wins": 42
     },
     "OKC": {
       "team_id": 18,
