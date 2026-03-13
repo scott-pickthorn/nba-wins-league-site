@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-03-12T07:00:56.840Z",
+  "lastUpdated": "2026-03-13T02:27:13.976Z",
   "teams": [
     {
       "team_id": 11,
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 34
+      "wins": 35
     },
     {
       "team_id": 1,
@@ -48,7 +48,7 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 21
+      "wins": 22
     },
     {
       "team_id": 16,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 46
+      "wins": 47
     },
     {
       "team_id": 21,
@@ -111,7 +111,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 37
+      "wins": 38
     },
     {
       "team_id": 10,
@@ -153,7 +153,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 36
+      "wins": 37
     },
     {
       "team_id": 4,
@@ -167,7 +167,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 38
+      "wins": 39
     },
     {
       "team_id": 19,
@@ -218,7 +218,7 @@
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 34
+      "wins": 35
     },
     "BOS": {
       "team_id": 1,
@@ -260,7 +260,7 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 21
+      "wins": 22
     },
     "DEN": {
       "team_id": 16,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 46
+      "wins": 47
     },
     "GSW": {
       "team_id": 21,
@@ -323,7 +323,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 37
+      "wins": 38
     },
     "MIL": {
       "team_id": 10,
@@ -365,7 +365,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 36
+      "wins": 37
     },
     "PHI": {
       "team_id": 4,
@@ -379,7 +379,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 38
+      "wins": 39
     },
     "POR": {
       "team_id": 19,
