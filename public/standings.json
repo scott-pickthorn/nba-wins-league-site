@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T06:59:39.620Z",
+  "lastUpdated": "2026-03-14T02:25:20.645Z",
   "teams": [
     {
       "team_id": 11,
@@ -41,7 +41,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 40
+      "wins": 41
     },
     {
       "team_id": 26,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 47
+      "wins": 48
     },
     {
       "team_id": 21,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 42
+      "wins": 43
     },
     {
       "team_id": 18,
@@ -195,7 +195,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 36
+      "wins": 37
     },
     {
       "team_id": 20,
@@ -253,7 +253,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 40
+      "wins": 41
     },
     "DAL": {
       "team_id": 26,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 47
+      "wins": 48
     },
     "GSW": {
       "team_id": 21,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 42
+      "wins": 43
     },
     "OKC": {
       "team_id": 18,
@@ -407,7 +407,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 36
+      "wins": 37
     },
     "UTA": {
       "team_id": 20,
