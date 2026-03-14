@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T02:25:20.645Z",
+  "lastUpdated": "2026-03-14T04:45:19.866Z",
   "teams": [
     {
       "team_id": 11,
@@ -76,7 +76,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 40
+      "wins": 41
     },
     {
       "team_id": 9,
@@ -125,7 +125,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 40
+      "wins": 41
     },
     {
       "team_id": 29,
@@ -174,7 +174,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 31
+      "wins": 32
     },
     {
       "team_id": 25,
@@ -288,7 +288,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 40
+      "wins": 41
     },
     "IND": {
       "team_id": 9,
@@ -337,7 +337,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 40
+      "wins": 41
     },
     "NOP": {
       "team_id": 29,
@@ -386,7 +386,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 31
+      "wins": 32
     },
     "SAC": {
       "team_id": 25,
