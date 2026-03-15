@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-03-14T06:53:48.687Z",
+  "lastUpdated": "2026-03-15T02:45:13.023Z",
   "teams": [
     {
       "team_id": 11,
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 35
+      "wins": 36
     },
     {
       "team_id": 1,
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 43
+      "wins": 44
     },
     {
       "team_id": 2,
@@ -160,7 +160,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 35
+      "wins": 36
     },
     {
       "team_id": 24,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 48
+      "wins": 49
     },
     {
       "team_id": 5,
@@ -218,14 +218,14 @@
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 35
+      "wins": 36
     },
     "BOS": {
       "team_id": 1,
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 43
+      "wins": 44
     },
     "BKN": {
       "team_id": 2,
@@ -372,7 +372,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 35
+      "wins": 36
     },
     "PHX": {
       "team_id": 24,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 48
+      "wins": 49
     },
     "TOR": {
       "team_id": 5,
