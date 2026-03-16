@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15T07:03:30.047Z",
+  "lastUpdated": "2026-03-16T02:45:27.664Z",
   "teams": [
     {
       "team_id": 11,
@@ -48,7 +48,7 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 22
+      "wins": 23
     },
     {
       "team_id": 16,
@@ -118,7 +118,7 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 27
+      "wins": 28
     },
     {
       "team_id": 17,
@@ -146,7 +146,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 52
+      "wins": 53
     },
     {
       "team_id": 14,
@@ -160,7 +160,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 36
+      "wins": 37
     },
     {
       "team_id": 24,
@@ -195,7 +195,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 37
+      "wins": 38
     },
     {
       "team_id": 20,
@@ -260,7 +260,7 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 22
+      "wins": 23
     },
     "DEN": {
       "team_id": 16,
@@ -330,7 +330,7 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 27
+      "wins": 28
     },
     "MIN": {
       "team_id": 17,
@@ -358,7 +358,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 52
+      "wins": 53
     },
     "ORL": {
       "team_id": 14,
@@ -372,7 +372,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 36
+      "wins": 37
     },
     "PHX": {
       "team_id": 24,
@@ -407,7 +407,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 37
+      "wins": 38
     },
     "UTA": {
       "team_id": 20,
