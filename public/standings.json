@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-03-19T02:35:36.483Z",
+  "lastUpdated": "2026-03-19T04:57:35.110Z",
   "teams": [
     {
       "team_id": 11,
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 37
+      "wins": 38
     },
     {
       "team_id": 1,
@@ -97,14 +97,14 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 43
+      "wins": 44
     },
     {
       "team_id": 28,
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 23
+      "wins": 24
     },
     {
       "team_id": 13,
@@ -218,7 +218,7 @@
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 37
+      "wins": 38
     },
     "BOS": {
       "team_id": 1,
@@ -309,14 +309,14 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 43
+      "wins": 44
     },
     "MEM": {
       "team_id": 28,
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 23
+      "wins": 24
     },
     "MIA": {
       "team_id": 13,
