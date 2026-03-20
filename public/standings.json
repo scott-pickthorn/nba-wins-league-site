@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T06:03:06.842Z",
+  "lastUpdated": "2026-03-20T02:27:56.195Z",
   "teams": [
     {
       "team_id": 11,
@@ -27,7 +27,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 35
+      "wins": 36
     },
     {
       "team_id": 6,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 49
+      "wins": 50
     },
     {
       "team_id": 21,
@@ -239,7 +239,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 35
+      "wins": 36
     },
     "CHI": {
       "team_id": 6,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 49
+      "wins": 50
     },
     "GSW": {
       "team_id": 21,
