@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T07:01:11.052Z",
+  "lastUpdated": "2026-03-21T02:22:42.695Z",
   "teams": [
     {
       "team_id": 11,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 50
+      "wins": 51
     },
     {
       "team_id": 21,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 45
+      "wins": 46
     },
     {
       "team_id": 18,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 50
+      "wins": 51
     },
     "GSW": {
       "team_id": 21,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 45
+      "wins": 46
     },
     "OKC": {
       "team_id": 18,
