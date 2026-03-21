@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-21T02:22:42.695Z",
+  "lastUpdated": "2026-03-21T04:39:49.115Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 46
+      "wins": 47
     },
     {
       "team_id": 2,
@@ -55,7 +55,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 42
+      "wins": 43
     },
     {
       "team_id": 8,
@@ -76,7 +76,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 41
+      "wins": 42
     },
     {
       "team_id": 9,
@@ -174,7 +174,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 34
+      "wins": 35
     },
     {
       "team_id": 25,
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 46
+      "wins": 47
     },
     "BKN": {
       "team_id": 2,
@@ -267,7 +267,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 42
+      "wins": 43
     },
     "DET": {
       "team_id": 8,
@@ -288,7 +288,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 41
+      "wins": 42
     },
     "IND": {
       "team_id": 9,
@@ -386,7 +386,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 34
+      "wins": 35
     },
     "SAC": {
       "team_id": 25,
