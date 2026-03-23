@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-22T06:59:38.972Z",
+  "lastUpdated": "2026-03-23T02:37:22.239Z",
   "teams": [
     {
       "team_id": 11,
@@ -55,7 +55,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 43
+      "wins": 44
     },
     {
       "team_id": 8,
@@ -125,7 +125,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 43
+      "wins": 44
     },
     {
       "team_id": 29,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 46
+      "wins": 47
     },
     {
       "team_id": 18,
@@ -181,7 +181,7 @@
       "name": "Sacramento",
       "mascot": "Kings",
       "abbreviation": "SAC",
-      "wins": 18
+      "wins": 19
     },
     {
       "team_id": 30,
@@ -267,7 +267,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 43
+      "wins": 44
     },
     "DET": {
       "team_id": 8,
@@ -337,7 +337,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 43
+      "wins": 44
     },
     "NOP": {
       "team_id": 29,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 46
+      "wins": 47
     },
     "OKC": {
       "team_id": 18,
@@ -393,7 +393,7 @@
       "name": "Sacramento",
       "mascot": "Kings",
       "abbreviation": "SAC",
-      "wins": 18
+      "wins": 19
     },
     "SAS": {
       "team_id": 30,
