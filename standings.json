@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T02:28:49.729Z",
+  "lastUpdated": "2026-03-24T04:56:49.099Z",
   "teams": [
     {
       "team_id": 11,
@@ -34,7 +34,7 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 28
+      "wins": 29
     },
     {
       "team_id": 7,
@@ -69,7 +69,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 33
+      "wins": 34
     },
     {
       "team_id": 27,
@@ -90,7 +90,7 @@
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 35
+      "wins": 36
     },
     {
       "team_id": 23,
@@ -174,7 +174,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 35
+      "wins": 36
     },
     {
       "team_id": 25,
@@ -195,7 +195,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 39
+      "wins": 40
     },
     {
       "team_id": 20,
@@ -246,7 +246,7 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 28
+      "wins": 29
     },
     "CLE": {
       "team_id": 7,
@@ -281,7 +281,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 33
+      "wins": 34
     },
     "HOU": {
       "team_id": 27,
@@ -302,7 +302,7 @@
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 35
+      "wins": 36
     },
     "LAL": {
       "team_id": 23,
@@ -386,7 +386,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 35
+      "wins": 36
     },
     "SAC": {
       "team_id": 25,
@@ -407,7 +407,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 39
+      "wins": 40
     },
     "UTA": {
       "team_id": 20,
