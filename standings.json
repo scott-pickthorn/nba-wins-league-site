@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-03-23T07:16:27.507Z",
+  "lastUpdated": "2026-03-24T02:28:49.729Z",
   "teams": [
     {
       "team_id": 11,
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 39
+      "wins": 40
     },
     {
       "team_id": 1,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 51
+      "wins": 52
     },
     {
       "team_id": 21,
@@ -83,7 +83,7 @@
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 15
+      "wins": 16
     },
     {
       "team_id": 22,
@@ -146,7 +146,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 56
+      "wins": 57
     },
     {
       "team_id": 14,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 53
+      "wins": 54
     },
     {
       "team_id": 5,
@@ -218,7 +218,7 @@
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 39
+      "wins": 40
     },
     "BOS": {
       "team_id": 1,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 51
+      "wins": 52
     },
     "GSW": {
       "team_id": 21,
@@ -295,7 +295,7 @@
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 15
+      "wins": 16
     },
     "LAC": {
       "team_id": 22,
@@ -358,7 +358,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 56
+      "wins": 57
     },
     "ORL": {
       "team_id": 14,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 53
+      "wins": 54
     },
     "TOR": {
       "team_id": 5,
