@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T02:33:53.136Z",
+  "lastUpdated": "2026-03-25T04:57:22.315Z",
   "teams": [
     {
       "team_id": 11,
@@ -41,7 +41,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 44
+      "wins": 45
     },
     {
       "team_id": 26,
@@ -253,7 +253,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 44
+      "wins": 45
     },
     "DAL": {
       "team_id": 26,
