@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T02:41:08.286Z",
+  "lastUpdated": "2026-03-26T05:09:52.619Z",
   "teams": [
     {
       "team_id": 11,
@@ -55,7 +55,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 45
+      "wins": 46
     },
     {
       "team_id": 8,
@@ -69,7 +69,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 34
+      "wins": 35
     },
     {
       "team_id": 27,
@@ -90,7 +90,7 @@
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 36
+      "wins": 37
     },
     {
       "team_id": 23,
@@ -125,7 +125,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 44
+      "wins": 45
     },
     {
       "team_id": 29,
@@ -174,7 +174,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 36
+      "wins": 37
     },
     {
       "team_id": 25,
@@ -209,7 +209,7 @@
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 16
+      "wins": 17
     }
   ],
   "teamsByAbbr": {
@@ -267,7 +267,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 45
+      "wins": 46
     },
     "DET": {
       "team_id": 8,
@@ -281,7 +281,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 34
+      "wins": 35
     },
     "HOU": {
       "team_id": 27,
@@ -302,7 +302,7 @@
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 36
+      "wins": 37
     },
     "LAL": {
       "team_id": 23,
@@ -337,7 +337,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 44
+      "wins": 45
     },
     "NOP": {
       "team_id": 29,
@@ -386,7 +386,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 36
+      "wins": 37
     },
     "SAC": {
       "team_id": 25,
@@ -421,7 +421,7 @@
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 16
+      "wins": 17
     }
   }
 }
