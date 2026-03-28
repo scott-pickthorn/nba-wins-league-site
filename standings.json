@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-28T02:32:49.063Z",
+  "lastUpdated": "2026-03-28T04:56:25.183Z",
   "teams": [
     {
       "team_id": 11,
@@ -48,14 +48,14 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 23
+      "wins": 24
     },
     {
       "team_id": 16,
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 46
+      "wins": 47
     },
     {
       "team_id": 8,
@@ -69,7 +69,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 35
+      "wins": 36
     },
     {
       "team_id": 27,
@@ -195,7 +195,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 40
+      "wins": 41
     },
     {
       "team_id": 20,
@@ -260,14 +260,14 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 23
+      "wins": 24
     },
     "DEN": {
       "team_id": 16,
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 46
+      "wins": 47
     },
     "DET": {
       "team_id": 8,
@@ -281,7 +281,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 35
+      "wins": 36
     },
     "HOU": {
       "team_id": 27,
@@ -407,7 +407,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 40
+      "wins": 41
     },
     "UTA": {
       "team_id": 20,
