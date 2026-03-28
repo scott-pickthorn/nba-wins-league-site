@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T07:13:53.916Z",
+  "lastUpdated": "2026-03-28T02:32:49.063Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 48
+      "wins": 49
     },
     {
       "team_id": 2,
@@ -41,7 +41,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 45
+      "wins": 46
     },
     {
       "team_id": 26,
@@ -76,7 +76,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 43
+      "wins": 44
     },
     {
       "team_id": 9,
@@ -90,7 +90,7 @@
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 37
+      "wins": 38
     },
     {
       "team_id": 23,
@@ -146,7 +146,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 57
+      "wins": 58
     },
     {
       "team_id": 14,
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 48
+      "wins": 49
     },
     "BKN": {
       "team_id": 2,
@@ -253,7 +253,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 45
+      "wins": 46
     },
     "DAL": {
       "team_id": 26,
@@ -288,7 +288,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 43
+      "wins": 44
     },
     "IND": {
       "team_id": 9,
@@ -302,7 +302,7 @@
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 37
+      "wins": 38
     },
     "LAL": {
       "team_id": 23,
@@ -358,7 +358,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 57
+      "wins": 58
     },
     "ORL": {
       "team_id": 14,
