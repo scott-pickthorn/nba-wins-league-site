@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29T02:46:58.356Z",
+  "lastUpdated": "2026-03-29T05:14:02.813Z",
   "teams": [
     {
       "team_id": 11,
@@ -104,7 +104,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 24
+      "wins": 25
     },
     {
       "team_id": 13,
@@ -167,7 +167,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 40
+      "wins": 41
     },
     {
       "team_id": 19,
@@ -316,7 +316,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 24
+      "wins": 25
     },
     "MIA": {
       "team_id": 13,
@@ -379,7 +379,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 40
+      "wins": 41
     },
     "POR": {
       "team_id": 19,
