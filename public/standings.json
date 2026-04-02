@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-04-01T07:26:51.539Z",
+  "lastUpdated": "2026-04-02T02:39:06.763Z",
   "teams": [
     {
       "team_id": 11,
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 43
+      "wins": 44
     },
     {
       "team_id": 1,
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 50
+      "wins": 51
     },
     {
       "team_id": 2,
@@ -76,14 +76,14 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 46
+      "wins": 47
     },
     {
       "team_id": 9,
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 17
+      "wins": 18
     },
     {
       "team_id": 22,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 48
+      "wins": 49
     },
     {
       "team_id": 18,
@@ -160,7 +160,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 41
+      "wins": 42
     },
     {
       "team_id": 24,
@@ -218,14 +218,14 @@
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 43
+      "wins": 44
     },
     "BOS": {
       "team_id": 1,
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 50
+      "wins": 51
     },
     "BKN": {
       "team_id": 2,
@@ -288,14 +288,14 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 46
+      "wins": 47
     },
     "IND": {
       "team_id": 9,
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 17
+      "wins": 18
     },
     "LAC": {
       "team_id": 22,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 48
+      "wins": 49
     },
     "OKC": {
       "team_id": 18,
@@ -372,7 +372,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 41
+      "wins": 42
     },
     "PHX": {
       "team_id": 24,
