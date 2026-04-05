@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T07:13:22.216Z",
+  "lastUpdated": "2026-04-05T02:49:30.743Z",
   "teams": [
     {
       "team_id": 11,
@@ -55,14 +55,14 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 49
+      "wins": 50
     },
     {
       "team_id": 8,
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 56
+      "wins": 57
     },
     {
       "team_id": 21,
@@ -111,7 +111,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 40
+      "wins": 41
     },
     {
       "team_id": 10,
@@ -267,14 +267,14 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 49
+      "wins": 50
     },
     "DET": {
       "team_id": 8,
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 56
+      "wins": 57
     },
     "GSW": {
       "team_id": 21,
@@ -323,7 +323,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 40
+      "wins": 41
     },
     "MIL": {
       "team_id": 10,
