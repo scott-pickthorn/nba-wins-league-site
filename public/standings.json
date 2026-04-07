@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T07:49:36.043Z",
+  "lastUpdated": "2026-04-07T02:44:29.420Z",
   "teams": [
     {
       "team_id": 11,
@@ -41,7 +41,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 49
+      "wins": 50
     },
     {
       "team_id": 26,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 50
+      "wins": 51
     },
     {
       "team_id": 18,
@@ -153,7 +153,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 42
+      "wins": 43
     },
     {
       "team_id": 4,
@@ -253,7 +253,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 49
+      "wins": 50
     },
     "DAL": {
       "team_id": 26,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 50
+      "wins": 51
     },
     "OKC": {
       "team_id": 18,
@@ -365,7 +365,7 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 42
+      "wins": 43
     },
     "PHI": {
       "team_id": 4,
