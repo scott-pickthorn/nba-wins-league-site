@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T02:44:29.420Z",
+  "lastUpdated": "2026-04-07T05:12:43.809Z",
   "teams": [
     {
       "team_id": 11,
@@ -55,7 +55,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 50
+      "wins": 51
     },
     {
       "team_id": 8,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 59
+      "wins": 60
     },
     {
       "team_id": 5,
@@ -267,7 +267,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 50
+      "wins": 51
     },
     "DET": {
       "team_id": 8,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 59
+      "wins": 60
     },
     "TOR": {
       "team_id": 5,
