@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T02:45:16.890Z",
+  "lastUpdated": "2026-04-08T05:14:23.133Z",
   "teams": [
     {
       "team_id": 11,
@@ -69,7 +69,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 36
+      "wins": 37
     },
     {
       "team_id": 27,
@@ -90,7 +90,7 @@
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 40
+      "wins": 41
     },
     {
       "team_id": 23,
@@ -146,7 +146,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 62
+      "wins": 63
     },
     {
       "team_id": 14,
@@ -281,7 +281,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 36
+      "wins": 37
     },
     "HOU": {
       "team_id": 27,
@@ -302,7 +302,7 @@
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 40
+      "wins": 41
     },
     "LAL": {
       "team_id": 23,
@@ -358,7 +358,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 62
+      "wins": 63
     },
     "ORL": {
       "team_id": 14,
