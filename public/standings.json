@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T02:40:01.137Z",
+  "lastUpdated": "2026-04-09T05:12:51.690Z",
   "teams": [
     {
       "team_id": 11,
@@ -55,7 +55,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 51
+      "wins": 52
     },
     {
       "team_id": 8,
@@ -146,7 +146,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 63
+      "wins": 64
     },
     {
       "team_id": 14,
@@ -167,7 +167,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 43
+      "wins": 44
     },
     {
       "team_id": 19,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 60
+      "wins": 61
     },
     {
       "team_id": 5,
@@ -267,7 +267,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 51
+      "wins": 52
     },
     "DET": {
       "team_id": 8,
@@ -358,7 +358,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 63
+      "wins": 64
     },
     "ORL": {
       "team_id": 14,
@@ -379,7 +379,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 43
+      "wins": 44
     },
     "POR": {
       "team_id": 19,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 60
+      "wins": 61
     },
     "TOR": {
       "team_id": 5,
