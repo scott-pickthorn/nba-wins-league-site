@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T07:42:25.947Z",
+  "lastUpdated": "2026-04-10T02:51:37.553Z",
   "teams": [
     {
       "team_id": 11,
@@ -34,7 +34,7 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 30
+      "wins": 31
     },
     {
       "team_id": 7,
@@ -76,14 +76,14 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 50
+      "wins": 51
     },
     {
       "team_id": 9,
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 18
+      "wins": 19
     },
     {
       "team_id": 22,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 51
+      "wins": 52
     },
     {
       "team_id": 18,
@@ -195,7 +195,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 44
+      "wins": 45
     },
     {
       "team_id": 20,
@@ -246,7 +246,7 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 30
+      "wins": 31
     },
     "CLE": {
       "team_id": 7,
@@ -288,14 +288,14 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 50
+      "wins": 51
     },
     "IND": {
       "team_id": 9,
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 18
+      "wins": 19
     },
     "LAC": {
       "team_id": 22,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 51
+      "wins": 52
     },
     "OKC": {
       "team_id": 18,
@@ -407,7 +407,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 44
+      "wins": 45
     },
     "UTA": {
       "team_id": 20,
