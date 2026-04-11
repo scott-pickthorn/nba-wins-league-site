@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T02:36:03.084Z",
+  "lastUpdated": "2026-04-11T04:58:35.675Z",
   "teams": [
     {
       "team_id": 11,
@@ -55,7 +55,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 52
+      "wins": 53
     },
     {
       "team_id": 8,
@@ -125,7 +125,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 47
+      "wins": 48
     },
     {
       "team_id": 29,
@@ -174,14 +174,14 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 40
+      "wins": 41
     },
     {
       "team_id": 25,
       "name": "Sacramento",
       "mascot": "Kings",
       "abbreviation": "SAC",
-      "wins": 21
+      "wins": 22
     },
     {
       "team_id": 30,
@@ -202,7 +202,7 @@
       "name": "Utah",
       "mascot": "Jazz",
       "abbreviation": "UTA",
-      "wins": 21
+      "wins": 22
     },
     {
       "team_id": 15,
@@ -267,7 +267,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 52
+      "wins": 53
     },
     "DET": {
       "team_id": 8,
@@ -337,7 +337,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 47
+      "wins": 48
     },
     "NOP": {
       "team_id": 29,
@@ -386,14 +386,14 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 40
+      "wins": 41
     },
     "SAC": {
       "team_id": 25,
       "name": "Sacramento",
       "mascot": "Kings",
       "abbreviation": "SAC",
-      "wins": 21
+      "wins": 22
     },
     "SAS": {
       "team_id": 30,
@@ -414,7 +414,7 @@
       "name": "Utah",
       "mascot": "Jazz",
       "abbreviation": "UTA",
-      "wins": 21
+      "wins": 22
     },
     "WAS": {
       "team_id": 15,
