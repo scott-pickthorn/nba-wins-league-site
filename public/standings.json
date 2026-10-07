@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T13:01:10.331Z",
+  "lastUpdated": "2026-10-07T05:03:21.123Z",
   "teams": [
     {
       "team_id": 11,
@@ -20,7 +20,7 @@
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 0
+      "wins": 1
     },
     {
       "team_id": 12,
@@ -55,7 +55,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 0
+      "wins": 1
     },
     {
       "team_id": 8,
@@ -69,7 +69,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 0
+      "wins": 1
     },
     {
       "team_id": 27,
@@ -132,7 +132,7 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 0
+      "wins": 1
     },
     {
       "team_id": 3,
@@ -232,7 +232,7 @@
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 0
+      "wins": 1
     },
     "CHA": {
       "team_id": 12,
@@ -267,7 +267,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 0
+      "wins": 1
     },
     "DET": {
       "team_id": 8,
@@ -281,7 +281,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 0
+      "wins": 1
     },
     "HOU": {
       "team_id": 27,
@@ -344,7 +344,7 @@
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 0
+      "wins": 1
     },
     "NYK": {
       "team_id": 3,
