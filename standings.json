@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-10-08T13:04:06.483Z",
+  "lastUpdated": "2026-10-09T05:16:48.364Z",
   "teams": [
     {
       "team_id": 11,
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 0
+      "wins": 1
     },
     {
       "team_id": 1,
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 0
+      "wins": 1
     },
     {
       "team_id": 2,
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 1
+      "wins": 2
     },
     {
       "team_id": 12,
@@ -111,7 +111,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 1
+      "wins": 2
     },
     {
       "team_id": 10,
@@ -209,7 +209,7 @@
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 0
+      "wins": 1
     }
   ],
   "teamsByAbbr": {
@@ -218,21 +218,21 @@
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 0
+      "wins": 1
     },
     "BOS": {
       "team_id": 1,
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 0
+      "wins": 1
     },
     "BKN": {
       "team_id": 2,
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 1
+      "wins": 2
     },
     "CHA": {
       "team_id": 12,
@@ -323,7 +323,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 1
+      "wins": 2
     },
     "MIL": {
       "team_id": 10,
@@ -421,7 +421,7 @@
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 0
+      "wins": 1
     }
   }
 }
