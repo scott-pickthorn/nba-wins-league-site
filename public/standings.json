@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T11:18:46.899Z",
+  "lastUpdated": "2026-10-12T05:05:50.598Z",
   "teams": [
     {
       "team_id": 11,
@@ -27,7 +27,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 0
+      "wins": 1
     },
     {
       "team_id": 6,
@@ -41,21 +41,21 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 0
+      "wins": 1
     },
     {
       "team_id": 26,
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 0
+      "wins": 1
     },
     {
       "team_id": 16,
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 1
+      "wins": 2
     },
     {
       "team_id": 8,
@@ -239,7 +239,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 0
+      "wins": 1
     },
     "CHI": {
       "team_id": 6,
@@ -253,21 +253,21 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 0
+      "wins": 1
     },
     "DAL": {
       "team_id": 26,
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 0
+      "wins": 1
     },
     "DEN": {
       "team_id": 16,
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 1
+      "wins": 2
     },
     "DET": {
       "team_id": 8,
