@@ -1,159 +1,159 @@
 {
-  "lastUpdated": "2026-10-20T09:51:51.592Z",
+  "lastUpdated": "2026-10-21T03:54:09.671Z",
   "teams": [
     {
       "team_id": 11,
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 4
+      "wins": 0
     },
     {
       "team_id": 1,
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 4
+      "wins": 0
     },
     {
       "team_id": 2,
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 3
+      "wins": 0
     },
     {
       "team_id": 12,
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 1
+      "wins": 0
     },
     {
       "team_id": 6,
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 3
+      "wins": 0
     },
     {
       "team_id": 7,
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 1
+      "wins": 0
     },
     {
       "team_id": 26,
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 1
+      "wins": 0
     },
     {
       "team_id": 16,
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 3
+      "wins": 0
     },
     {
       "team_id": 8,
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 3
+      "wins": 1
     },
     {
       "team_id": 21,
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 4
+      "wins": 0
     },
     {
       "team_id": 27,
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 2
+      "wins": 0
     },
     {
       "team_id": 9,
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 1
+      "wins": 0
     },
     {
       "team_id": 22,
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 2
+      "wins": 0
     },
     {
       "team_id": 23,
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 2
+      "wins": 0
     },
     {
       "team_id": 28,
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 3
+      "wins": 0
     },
     {
       "team_id": 13,
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 3
+      "wins": 0
     },
     {
       "team_id": 10,
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 2
+      "wins": 0
     },
     {
       "team_id": 17,
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 3
+      "wins": 0
     },
     {
       "team_id": 29,
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 3
+      "wins": 0
     },
     {
       "team_id": 3,
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 1
+      "wins": 0
     },
     {
       "team_id": 18,
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 1
+      "wins": 0
     },
     {
       "team_id": 14,
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 3
+      "wins": 0
     },
     {
       "team_id": 4,
@@ -167,14 +167,14 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 1
+      "wins": 0
     },
     {
       "team_id": 19,
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 3
+      "wins": 0
     },
     {
       "team_id": 25,
@@ -188,28 +188,28 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 2
+      "wins": 0
     },
     {
       "team_id": 5,
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 2
+      "wins": 0
     },
     {
       "team_id": 20,
       "name": "Utah",
       "mascot": "Jazz",
       "abbreviation": "UTA",
-      "wins": 3
+      "wins": 0
     },
     {
       "team_id": 15,
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 2
+      "wins": 0
     }
   ],
   "teamsByAbbr": {
@@ -218,154 +218,154 @@
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 4
+      "wins": 0
     },
     "BOS": {
       "team_id": 1,
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 4
+      "wins": 0
     },
     "BKN": {
       "team_id": 2,
       "name": "Brooklyn",
       "mascot": "Nets",
       "abbreviation": "BKN",
-      "wins": 3
+      "wins": 0
     },
     "CHA": {
       "team_id": 12,
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 1
+      "wins": 0
     },
     "CHI": {
       "team_id": 6,
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 3
+      "wins": 0
     },
     "CLE": {
       "team_id": 7,
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 1
+      "wins": 0
     },
     "DAL": {
       "team_id": 26,
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 1
+      "wins": 0
     },
     "DEN": {
       "team_id": 16,
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 3
+      "wins": 0
     },
     "DET": {
       "team_id": 8,
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 3
+      "wins": 1
     },
     "GSW": {
       "team_id": 21,
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 4
+      "wins": 0
     },
     "HOU": {
       "team_id": 27,
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 2
+      "wins": 0
     },
     "IND": {
       "team_id": 9,
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 1
+      "wins": 0
     },
     "LAC": {
       "team_id": 22,
       "name": "LA",
       "mascot": "Clippers",
       "abbreviation": "LAC",
-      "wins": 2
+      "wins": 0
     },
     "LAL": {
       "team_id": 23,
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 2
+      "wins": 0
     },
     "MEM": {
       "team_id": 28,
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 3
+      "wins": 0
     },
     "MIA": {
       "team_id": 13,
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 3
+      "wins": 0
     },
     "MIL": {
       "team_id": 10,
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 2
+      "wins": 0
     },
     "MIN": {
       "team_id": 17,
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 3
+      "wins": 0
     },
     "NOP": {
       "team_id": 29,
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 3
+      "wins": 0
     },
     "NYK": {
       "team_id": 3,
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 1
+      "wins": 0
     },
     "OKC": {
       "team_id": 18,
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 1
+      "wins": 0
     },
     "ORL": {
       "team_id": 14,
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 3
+      "wins": 0
     },
     "PHI": {
       "team_id": 4,
@@ -379,14 +379,14 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 1
+      "wins": 0
     },
     "POR": {
       "team_id": 19,
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 3
+      "wins": 0
     },
     "SAC": {
       "team_id": 25,
@@ -400,28 +400,28 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 2
+      "wins": 0
     },
     "TOR": {
       "team_id": 5,
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 2
+      "wins": 0
     },
     "UTA": {
       "team_id": 20,
       "name": "Utah",
       "mascot": "Jazz",
       "abbreviation": "UTA",
-      "wins": 3
+      "wins": 0
     },
     "WAS": {
       "team_id": 15,
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 2
+      "wins": 0
     }
   }
 }
