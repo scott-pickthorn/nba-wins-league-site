@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-10-21T09:13:41.585Z",
+  "lastUpdated": "2026-10-22T03:56:29.066Z",
   "teams": [
     {
       "team_id": 11,
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 0
+      "wins": 1
     },
     {
       "team_id": 1,
@@ -27,7 +27,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 0
+      "wins": 1
     },
     {
       "team_id": 6,
@@ -76,14 +76,14 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 0
+      "wins": 1
     },
     {
       "team_id": 9,
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 0
+      "wins": 1
     },
     {
       "team_id": 22,
@@ -104,7 +104,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 0
+      "wins": 1
     },
     {
       "team_id": 13,
@@ -125,7 +125,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 0
+      "wins": 1
     },
     {
       "team_id": 29,
@@ -195,7 +195,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 0
+      "wins": 1
     },
     {
       "team_id": 20,
@@ -209,7 +209,7 @@
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 0
+      "wins": 1
     }
   ],
   "teamsByAbbr": {
@@ -218,7 +218,7 @@
       "name": "Atlanta",
       "mascot": "Hawks",
       "abbreviation": "ATL",
-      "wins": 0
+      "wins": 1
     },
     "BOS": {
       "team_id": 1,
@@ -239,7 +239,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 0
+      "wins": 1
     },
     "CHI": {
       "team_id": 6,
@@ -288,14 +288,14 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 0
+      "wins": 1
     },
     "IND": {
       "team_id": 9,
       "name": "Indiana",
       "mascot": "Pacers",
       "abbreviation": "IND",
-      "wins": 0
+      "wins": 1
     },
     "LAC": {
       "team_id": 22,
@@ -316,7 +316,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 0
+      "wins": 1
     },
     "MIA": {
       "team_id": 13,
@@ -337,7 +337,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 0
+      "wins": 1
     },
     "NOP": {
       "team_id": 29,
@@ -407,7 +407,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 0
+      "wins": 1
     },
     "UTA": {
       "team_id": 20,
@@ -421,7 +421,7 @@
       "name": "Washington",
       "mascot": "Wizards",
       "abbreviation": "WAS",
-      "wins": 0
+      "wins": 1
     }
   }
 }
