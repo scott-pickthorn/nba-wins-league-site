@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T03:50:11.654Z",
+  "lastUpdated": "2026-10-25T09:00:49.511Z",
   "teams": [
     {
       "team_id": 11,
@@ -55,7 +55,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 0
+      "wins": 1
     },
     {
       "team_id": 8,
@@ -167,7 +167,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 0
+      "wins": 1
     },
     {
       "team_id": 19,
@@ -267,7 +267,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 0
+      "wins": 1
     },
     "DET": {
       "team_id": 8,
@@ -379,7 +379,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 0
+      "wins": 1
     },
     "POR": {
       "team_id": 19,
