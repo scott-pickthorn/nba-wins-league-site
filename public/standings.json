@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T09:54:25.233Z",
+  "lastUpdated": "2026-10-27T04:16:02.188Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 1
+      "wins": 2
     },
     {
       "team_id": 2,
@@ -27,7 +27,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 2
+      "wins": 3
     },
     {
       "team_id": 6,
@@ -41,14 +41,14 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 1
+      "wins": 2
     },
     {
       "team_id": 26,
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 1
+      "wins": 2
     },
     {
       "team_id": 16,
@@ -76,7 +76,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 3
+      "wins": 4
     },
     {
       "team_id": 9,
@@ -104,7 +104,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 3
+      "wins": 4
     },
     {
       "team_id": 13,
@@ -118,7 +118,7 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 0
+      "wins": 1
     },
     {
       "team_id": 17,
@@ -146,7 +146,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 3
+      "wins": 4
     },
     {
       "team_id": 14,
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 1
+      "wins": 2
     },
     "BKN": {
       "team_id": 2,
@@ -239,7 +239,7 @@
       "name": "Charlotte",
       "mascot": "Hornets",
       "abbreviation": "CHA",
-      "wins": 2
+      "wins": 3
     },
     "CHI": {
       "team_id": 6,
@@ -253,14 +253,14 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 1
+      "wins": 2
     },
     "DAL": {
       "team_id": 26,
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 1
+      "wins": 2
     },
     "DEN": {
       "team_id": 16,
@@ -288,7 +288,7 @@
       "name": "Houston",
       "mascot": "Rockets",
       "abbreviation": "HOU",
-      "wins": 3
+      "wins": 4
     },
     "IND": {
       "team_id": 9,
@@ -316,7 +316,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 3
+      "wins": 4
     },
     "MIA": {
       "team_id": 13,
@@ -330,7 +330,7 @@
       "name": "Milwaukee",
       "mascot": "Bucks",
       "abbreviation": "MIL",
-      "wins": 0
+      "wins": 1
     },
     "MIN": {
       "team_id": 17,
@@ -358,7 +358,7 @@
       "name": "Oklahoma City",
       "mascot": "Thunder",
       "abbreviation": "OKC",
-      "wins": 3
+      "wins": 4
     },
     "ORL": {
       "team_id": 14,
