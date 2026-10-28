@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T10:15:59.188Z",
+  "lastUpdated": "2026-10-28T04:45:21.189Z",
   "teams": [
     {
       "team_id": 11,
@@ -13,7 +13,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 2
+      "wins": 3
     },
     {
       "team_id": 2,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 0
+      "wins": 1
     },
     {
       "team_id": 18,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 1
+      "wins": 2
     },
     {
       "team_id": 5,
@@ -225,7 +225,7 @@
       "name": "Boston",
       "mascot": "Celtics",
       "abbreviation": "BOS",
-      "wins": 2
+      "wins": 3
     },
     "BKN": {
       "team_id": 2,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 0
+      "wins": 1
     },
     "OKC": {
       "team_id": 18,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 1
+      "wins": 2
     },
     "TOR": {
       "team_id": 5,
