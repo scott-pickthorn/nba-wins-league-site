@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T05:52:14.041Z",
+  "lastUpdated": "2026-11-03T13:50:52.351Z",
   "teams": [
     {
       "team_id": 11,
@@ -69,7 +69,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 4
+      "wins": 5
     },
     {
       "team_id": 27,
@@ -195,7 +195,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 3
+      "wins": 4
     },
     {
       "team_id": 20,
@@ -281,7 +281,7 @@
       "name": "Golden State",
       "mascot": "Warriors",
       "abbreviation": "GSW",
-      "wins": 4
+      "wins": 5
     },
     "HOU": {
       "team_id": 27,
@@ -407,7 +407,7 @@
       "name": "Toronto",
       "mascot": "Raptors",
       "abbreviation": "TOR",
-      "wins": 3
+      "wins": 4
     },
     "UTA": {
       "team_id": 20,
