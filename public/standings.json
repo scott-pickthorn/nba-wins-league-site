@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T05:47:21.317Z",
+  "lastUpdated": "2026-11-05T14:17:37.296Z",
   "teams": [
     {
       "team_id": 11,
@@ -97,7 +97,7 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 6
+      "wins": 7
     },
     {
       "team_id": 28,
@@ -111,7 +111,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 2
+      "wins": 3
     },
     {
       "team_id": 10,
@@ -309,7 +309,7 @@
       "name": "Los Angeles",
       "mascot": "Lakers",
       "abbreviation": "LAL",
-      "wins": 6
+      "wins": 7
     },
     "MEM": {
       "team_id": 28,
@@ -323,7 +323,7 @@
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 2
+      "wins": 3
     },
     "MIL": {
       "team_id": 10,
