@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T14:17:37.296Z",
+  "lastUpdated": "2026-11-06T05:44:04.975Z",
   "teams": [
     {
       "team_id": 11,
@@ -167,7 +167,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 1
+      "wins": 2
     },
     {
       "team_id": 19,
@@ -379,7 +379,7 @@
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 1
+      "wins": 2
     },
     "POR": {
       "team_id": 19,
