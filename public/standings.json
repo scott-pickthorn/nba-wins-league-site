@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T05:10:05.217Z",
+  "lastUpdated": "2026-11-08T12:57:51.968Z",
   "teams": [
     {
       "team_id": 11,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 7
+      "wins": 8
     },
     {
       "team_id": 5,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 7
+      "wins": 8
     },
     "TOR": {
       "team_id": 5,
