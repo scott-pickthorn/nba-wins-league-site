@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T06:24:42.964Z",
+  "lastUpdated": "2026-11-13T05:44:45.905Z",
   "teams": [
     {
       "team_id": 11,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 7
+      "wins": 8
     },
     {
       "team_id": 21,
@@ -125,7 +125,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 8
+      "wins": 9
     },
     {
       "team_id": 29,
@@ -160,14 +160,14 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 9
+      "wins": 10
     },
     {
       "team_id": 24,
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 4
+      "wins": 5
     },
     {
       "team_id": 19,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 7
+      "wins": 8
     },
     "GSW": {
       "team_id": 21,
@@ -337,7 +337,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 8
+      "wins": 9
     },
     "NOP": {
       "team_id": 29,
@@ -372,14 +372,14 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 9
+      "wins": 10
     },
     "PHX": {
       "team_id": 24,
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 4
+      "wins": 5
     },
     "POR": {
       "team_id": 19,
