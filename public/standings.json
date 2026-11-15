@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T13:11:11.500Z",
+  "lastUpdated": "2026-11-15T05:31:54.178Z",
   "teams": [
     {
       "team_id": 11,
@@ -34,14 +34,14 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 2
+      "wins": 3
     },
     {
       "team_id": 7,
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 6
+      "wins": 7
     },
     {
       "team_id": 26,
@@ -55,7 +55,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 6
+      "wins": 7
     },
     {
       "team_id": 8,
@@ -104,14 +104,14 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 8
+      "wins": 9
     },
     {
       "team_id": 13,
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 6
+      "wins": 7
     },
     {
       "team_id": 10,
@@ -246,14 +246,14 @@
       "name": "Chicago",
       "mascot": "Bulls",
       "abbreviation": "CHI",
-      "wins": 2
+      "wins": 3
     },
     "CLE": {
       "team_id": 7,
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 6
+      "wins": 7
     },
     "DAL": {
       "team_id": 26,
@@ -267,7 +267,7 @@
       "name": "Denver",
       "mascot": "Nuggets",
       "abbreviation": "DEN",
-      "wins": 6
+      "wins": 7
     },
     "DET": {
       "team_id": 8,
@@ -316,14 +316,14 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 8
+      "wins": 9
     },
     "MIA": {
       "team_id": 13,
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 6
+      "wins": 7
     },
     "MIL": {
       "team_id": 10,
