@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T15:12:17.916Z",
+  "lastUpdated": "2026-11-17T07:09:18.261Z",
   "teams": [
     {
       "team_id": 11,
@@ -41,7 +41,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 7
+      "wins": 8
     },
     {
       "team_id": 26,
@@ -104,14 +104,14 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 9
+      "wins": 10
     },
     {
       "team_id": 13,
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 7
+      "wins": 8
     },
     {
       "team_id": 10,
@@ -125,14 +125,14 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 9
+      "wins": 10
     },
     {
       "team_id": 29,
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 4
+      "wins": 5
     },
     {
       "team_id": 3,
@@ -153,21 +153,21 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 5
+      "wins": 6
     },
     {
       "team_id": 4,
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 24,
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 5
+      "wins": 6
     },
     {
       "team_id": 19,
@@ -253,7 +253,7 @@
       "name": "Cleveland",
       "mascot": "Cavaliers",
       "abbreviation": "CLE",
-      "wins": 7
+      "wins": 8
     },
     "DAL": {
       "team_id": 26,
@@ -316,14 +316,14 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 9
+      "wins": 10
     },
     "MIA": {
       "team_id": 13,
       "name": "Miami",
       "mascot": "Heat",
       "abbreviation": "MIA",
-      "wins": 7
+      "wins": 8
     },
     "MIL": {
       "team_id": 10,
@@ -337,14 +337,14 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 9
+      "wins": 10
     },
     "NOP": {
       "team_id": 29,
       "name": "New Orleans",
       "mascot": "Pelicans",
       "abbreviation": "NOP",
-      "wins": 4
+      "wins": 5
     },
     "NYK": {
       "team_id": 3,
@@ -365,21 +365,21 @@
       "name": "Orlando",
       "mascot": "Magic",
       "abbreviation": "ORL",
-      "wins": 5
+      "wins": 6
     },
     "PHI": {
       "team_id": 4,
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 11
+      "wins": 12
     },
     "PHX": {
       "team_id": 24,
       "name": "Phoenix",
       "mascot": "Suns",
       "abbreviation": "PHX",
-      "wins": 5
+      "wins": 6
     },
     "POR": {
       "team_id": 19,
