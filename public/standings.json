@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-17T07:09:18.261Z",
+  "lastUpdated": "2026-11-18T06:34:04.247Z",
   "teams": [
     {
       "team_id": 11,
@@ -62,7 +62,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 8
+      "wins": 9
     },
     {
       "team_id": 21,
@@ -125,7 +125,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 10
+      "wins": 11
     },
     {
       "team_id": 29,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 7
+      "wins": 8
     },
     {
       "team_id": 18,
@@ -202,7 +202,7 @@
       "name": "Utah",
       "mascot": "Jazz",
       "abbreviation": "UTA",
-      "wins": 1
+      "wins": 2
     },
     {
       "team_id": 15,
@@ -274,7 +274,7 @@
       "name": "Detroit",
       "mascot": "Pistons",
       "abbreviation": "DET",
-      "wins": 8
+      "wins": 9
     },
     "GSW": {
       "team_id": 21,
@@ -337,7 +337,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 10
+      "wins": 11
     },
     "NOP": {
       "team_id": 29,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 7
+      "wins": 8
     },
     "OKC": {
       "team_id": 18,
@@ -414,7 +414,7 @@
       "name": "Utah",
       "mascot": "Jazz",
       "abbreviation": "UTA",
-      "wins": 1
+      "wins": 2
     },
     "WAS": {
       "team_id": 15,
