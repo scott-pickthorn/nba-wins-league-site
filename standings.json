@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-19T06:35:20.611Z",
+  "lastUpdated": "2026-11-20T06:22:47.552Z",
   "teams": [
     {
       "team_id": 11,
@@ -104,7 +104,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 13,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 8
+      "wins": 9
     },
     {
       "team_id": 18,
@@ -174,7 +174,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 9
+      "wins": 10
     },
     {
       "team_id": 25,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 12
+      "wins": 13
     },
     {
       "team_id": 5,
@@ -316,7 +316,7 @@
       "name": "Memphis",
       "mascot": "Grizzlies",
       "abbreviation": "MEM",
-      "wins": 11
+      "wins": 12
     },
     "MIA": {
       "team_id": 13,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 8
+      "wins": 9
     },
     "OKC": {
       "team_id": 18,
@@ -386,7 +386,7 @@
       "name": "Portland",
       "mascot": "Trailblazers",
       "abbreviation": "POR",
-      "wins": 9
+      "wins": 10
     },
     "SAC": {
       "team_id": 25,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 12
+      "wins": 13
     },
     "TOR": {
       "team_id": 5,
