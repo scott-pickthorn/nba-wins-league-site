@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T06:13:21.212Z",
+  "lastUpdated": "2026-11-22T05:46:39.316Z",
   "teams": [
     {
       "team_id": 11,
@@ -48,7 +48,7 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 8
+      "wins": 9
     },
     {
       "team_id": 16,
@@ -125,7 +125,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 11
+      "wins": 12
     },
     {
       "team_id": 29,
@@ -139,7 +139,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 9
+      "wins": 10
     },
     {
       "team_id": 18,
@@ -160,7 +160,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 13
+      "wins": 14
     },
     {
       "team_id": 24,
@@ -188,7 +188,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 13
+      "wins": 14
     },
     {
       "team_id": 5,
@@ -260,7 +260,7 @@
       "name": "Dallas",
       "mascot": "Mavericks",
       "abbreviation": "DAL",
-      "wins": 8
+      "wins": 9
     },
     "DEN": {
       "team_id": 16,
@@ -337,7 +337,7 @@
       "name": "Minnesota",
       "mascot": "Timberwolves",
       "abbreviation": "MIN",
-      "wins": 11
+      "wins": 12
     },
     "NOP": {
       "team_id": 29,
@@ -351,7 +351,7 @@
       "name": "New York",
       "mascot": "Knicks",
       "abbreviation": "NYK",
-      "wins": 9
+      "wins": 10
     },
     "OKC": {
       "team_id": 18,
@@ -372,7 +372,7 @@
       "name": "Philadelphia",
       "mascot": "76ers",
       "abbreviation": "PHI",
-      "wins": 13
+      "wins": 14
     },
     "PHX": {
       "team_id": 24,
@@ -400,7 +400,7 @@
       "name": "San Antonio",
       "mascot": "Spurs",
       "abbreviation": "SAS",
-      "wins": 13
+      "wins": 14
     },
     "TOR": {
       "team_id": 5,
