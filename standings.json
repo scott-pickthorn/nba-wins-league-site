@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T05:46:39.316Z",
+  "lastUpdated": "2026-11-22T14:17:38.209Z",
   "teams": [
     {
       "team_id": 11,
@@ -181,7 +181,7 @@
       "name": "Sacramento",
       "mascot": "Kings",
       "abbreviation": "SAC",
-      "wins": 1
+      "wins": 2
     },
     {
       "team_id": 30,
@@ -393,7 +393,7 @@
       "name": "Sacramento",
       "mascot": "Kings",
       "abbreviation": "SAC",
-      "wins": 1
+      "wins": 2
     },
     "SAS": {
       "team_id": 30,
